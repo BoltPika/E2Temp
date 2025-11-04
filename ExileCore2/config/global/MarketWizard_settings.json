@@ -1,0 +1,31 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "GraphPadding": {
+    "Value": 20.0
+  },
+  "GraphHeight": {
+    "Value": 100.0
+  },
+  "MaxSpreadDepth": {
+    "Value": 100
+  },
+  "EnableProfitPanel": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  }
+}

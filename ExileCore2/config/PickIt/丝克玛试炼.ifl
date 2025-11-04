@@ -1,0 +1,3 @@
+ContainsString(BaseName, new string[] { "聖物","鑰匙" })  //自行添加-要拾取项目名称
+
+ContainsString(BaseName, new string[] { "圣物","钥匙" })

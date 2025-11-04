@@ -1,0 +1,1266 @@
+{
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Description": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "IgnoreUiElementVisibility": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ShowInTown": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ShowInHideout": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "EnableAbsolutePlayerBarPositioning": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "PlayerBarPosition": {
+    "Value": {
+      "X": 1000.0,
+      "Y": 1000.0
+    }
+  },
+  "SmoothingFactor": {
+    "Value": 0.0
+  },
+  "PlayerSmoothingFactor": {
+    "Value": 1.0
+  },
+  "GlobalZOffset": {
+    "Value": -10
+  },
+  "PlayerZOffset": {
+    "Value": 0
+  },
+  "PlaceBarRelativeToGroundLevel": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "PlacePlayerBarRelativeToGroundLevel": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "DrawDistanceLimit": {
+    "Value": 666
+  },
+  "ShowMinionOnlyWhenBelowHp": {
+    "Value": 50
+  },
+  "DpsEstimateDuration": {
+    "Value": 1000
+  },
+  "CullingStrike": null,
+  "HasCullingStrike": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "CullingThreshold": {
+    "Value": 30
+  },
+  "CombatDamageColor": "ff0000ff",
+  "CombatHealColor": "008000ff",
+  "ResizeBarsToFitText": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "UseShadedTexture": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "UseOldConfigFormat": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "BossOverlaySettings": {
+    "Show": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ItemSpacing": {
+      "Value": 100
+    },
+    "BarHeight": {
+      "Value": 20
+    },
+    "Width": {
+      "Value": 500
+    },
+    "Location": {
+      "Value": {
+        "X": 10.0,
+        "Y": 300.0
+      }
+    },
+    "ShowCastBarStageNames": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ShowMonsterNames": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MaxEntries": {
+      "Value": 5
+    }
+  },
+  "CommonCastBarSettings": {
+    "MaxSkillNameLength": {
+      "Value": 5
+    },
+    "MaxSkillNameLengthForBossOverlay": {
+      "Value": 20
+    },
+    "ShowNextStageName": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ShowNextStageNameInBossOverlay": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DebugShowAllSkillStages": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CutOffBackswing": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  },
+  "Self": {
+    "Show": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "008000ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffffff00",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": "{percent}%"
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  },
+  "UniqueEnemy": {
+    "Show": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 20.0
+    },
+    "Height": {
+      "Value": 5.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ffa500ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffa500ff",
+    "TextColor": "66ff99ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": "{percent}% {current}/{total}"
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  },
+  "RareEnemy": {
+    "Show": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 125.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "f4ff19ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "f4ff19ff",
+    "TextColor": "66ff99ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": "{percent}% {current}/{total}"
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  },
+  "MagicEnemy": {
+    "Show": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 15.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "8888ffff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "8888ffff",
+    "TextColor": "66ff99ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  },
+  "NormalEnemy": {
+    "Show": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 75.0
+    },
+    "Height": {
+      "Value": 10.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff0000ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffffff00",
+    "TextColor": "66ff66ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  },
+  "Minions": {
+    "Show": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "90ee90ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffffff00",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  },
+  "Players": {
+    "Show": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "008000ff",
+    "EsColor": "00ffffff",
+    "ManaColor": "0000ffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffffff00",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "CombineLifeAndEs": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CombineLifeAndMana": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ManaProtectsLife": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EsBarHeight": {
+      "Value": 0.33333334
+    },
+    "IncludeInBossOverlay": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "TextFormat": {
+      "Value": "{percent}%"
+    },
+    "CastBarSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    }
+  }
+}

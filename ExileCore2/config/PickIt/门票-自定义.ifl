@@ -1,0 +1,7 @@
+BaseName.Contains("巨靈之幣") &&  ItemLevel >= 0 //等级修改1-80
+
+BaseName.Contains("最後通牒雕刻") &&  ItemLevel >= 0 //等级修改1-80
+
+BaseName.Contains("危機碎片")
+
+BaseName.Contains("之運")

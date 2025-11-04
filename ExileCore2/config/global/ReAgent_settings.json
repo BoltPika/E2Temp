@@ -1,0 +1,676 @@
+{
+  "Profiles": {
+    "设置模板": {
+      "Groups": [
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.血.百分比 <= 60 & \"<--喝药百分比\" != \"\" &\nFlasks[0].CanBeUsed & \"<--血瓶可用\" != \"\" &\n!Flasks[0].active & \"<--上次药效结束\" != \"\" & \n按键间隔(0.1) & \"<--距离上次按键间隔\" != \"\" ",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "D1",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": true,
+          "EnabledInTown": true,
+          "EnabledInHideout": true,
+          "EnabledInPeacefulAreas": true,
+          "EnabledInMaps": true,
+          "Name": "喝血展开改数",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.蓝.百分比 <= 30  & \"<--喝药百分比\" != \"\" &\nFlasks[1].CanBeUsed & \"<--蓝瓶可用\" != \"\" &\n!Flasks[1].active & \"<--上次药效结束\" != \"\" & \n按键间隔(0.1) & \"<--距离上次按键间隔\" != \"\" ",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "D2",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": true,
+          "EnabledInTown": true,
+          "EnabledInHideout": true,
+          "EnabledInPeacefulAreas": true,
+          "EnabledInMaps": true,
+          "Name": "喝蓝展开改数",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.盾.百分比 <= 10  & \"<--喝药百分比\" != \"\" &\nFlasks[0].CanBeUsed & \"<--血瓶可用\" != \"\" &\n!Flasks[0].active & \"<--上次药效结束\" != \"\" & \n按键间隔(0.5) & \"<--距离上次按键间隔\" != \"\" ",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "D1",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": true,
+          "EnabledInHideout": true,
+          "EnabledInPeacefulAreas": true,
+          "EnabledInMaps": true,
+          "Name": "低盾喝血",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.血.百分比 <= 30 & \"<--HP百分比可改-蓝-盾\" != \"\" &\n按键间隔(0.5) & \"<--距离上次按键间隔\" != \"\" &\n!IsInEscapeMenu",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "Escape",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": true,
+          "EnabledInHideout": true,
+          "EnabledInPeacefulAreas": true,
+          "EnabledInMaps": true,
+          "Name": "低血ESC",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "Vitals.血.百分比 <= 15 & \"<--HP百分比可改-蓝-护盾\" != \"\"\n? new ISideEffect[]{DisconnectSideEffect()}\n: null",
+              "Type": 2,
+              "KeyV2": null,
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "低血返回登录",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(2) & \"<--距离上次按键间隔\" != \"\" ",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "Q",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "定时按键",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.5) & \"<--距离上次按键间隔\" != \"\" & \n(float(Stats[GameStat.CurrentInfernalFlame])/float(Stats[GameStat.MaximumInfernalFlame])*100) \n<= 50 & \"<--炼狱之炎百分比-把使用新语法勾取消再用\" != \"\" ",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "D0",
+                "Win": false
+              },
+              "SyntaxVersion": 2
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "监测炼狱之炎",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.3) & \"<--距离上次按键间隔\" != \"\" &\n识别怪物().Any(m => m.DistanceToCursor <= 50 && m.IsAlive) &\n怪物数量(50, MonsterRarity.Unique) = 0",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "None",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "范围内有怪放",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.5) & \"<--距离上次按键间隔\" != \"\" &\n怪物数量(100, MonsterRarity.Rare | MonsterRarity.Unique) > 0",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "Q",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            },
+            {
+              "RuleSource": "按键间隔(0.5) & \n怪物数量(100, MonsterRarity.Rare | MonsterRarity.Unique) > 0",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "E",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "范围有BOSS放",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.1) &&\n识别怪物(30).Any()\n? new ISideEffect[]{\n按住按键(Keys.LButton)\n}\n:\n按键间隔(0.2) &&\n!识别怪物(30).Any()\n? new ISideEffect[]{\n释放按键(Keys.LButton)\n}\n: null",
+              "Type": 2,
+              "KeyV2": null,
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "范围有怪按住",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.1) & \"<--距离上次按键间隔\" != \"\" &\n技能[\"ChargedStaffPlayer\"].CanBeUsed & \"<--充能长杖可释放\" != \"\" \n&& (Buffs.Has(\"power_charge\")\n&& Buffs[\"power_charge\"].Charges >= 1\n&& !Buffs.Has(\"charged_staff_stack\") || Buffs.Has(\"charged_staff_stack\")\n&& Buffs[\"charged_staff_stack\"].TimeLeft < 3 && Buffs.Has(\"power_charge\"))",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "E",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "自动充能长杖",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.5) & \"<--距离上次按键间隔\" != \"\" &\nVitals.蓝.百分比 >=5 & \"<--蓝量大于5%\" != \"\" & \n技能[\"TempestBellPlayer\"].CanBeUsed & \"<--钟可释放\" != \"\" &\n怪物数量(30, MonsterRarity.Rare | MonsterRarity.Unique) > 0 & \"<--范围内有精英或boss\" != \"\"",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "MButton",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "自动放钟",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.3) & \"<--按键延迟\" != \"\" &\n识别怪物().Any(m => m.DistanceToCursor <= 50 && m.IsAlive) & \"<--50范围内有怪\" !=\"\" &\nBuffs[\"support_static_charge\"].Charges = 30 & \"<--电流30层\" != \"\" &\n怪物数量(50, MonsterRarity.Rare | MonsterRarity.Unique) >= 0 & \"<--50范围内没精英或BOSS\" != \"\"",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "RButton",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            },
+            {
+              "RuleSource": "按键间隔(3) & \"<--按键延迟\" != \"\" &\n识别怪物().Any(m => m.DistanceToCursor <= 50 && m.IsAlive) & \"<--50检测怪物范围\" !=\"\" &\n怪物数量(50, MonsterRarity.Rare | MonsterRarity.Unique) > 0 & \"<--50范围内没精英或BOSS\" != \"\"",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "Q",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            },
+            {
+              "RuleSource": "按键间隔(0.3) & \"<--按键延迟\" != \"\" &\n识别怪物().Any(m => m.DistanceToCursor <= 50 && m.IsAlive) & \"<--50检测怪物范围\" !=\"\" &\nBuffs[\"support_static_charge\"].Charges = 30 & \"<--电流30层\" != \"\" &\n怪物数量(50, MonsterRarity.Rare | MonsterRarity.Unique) > 0 & \"<--50范围内没精英或BOSS\" != \"\"",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "E",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "闪电矛",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "获取当前步骤(\"阴爪\") == 0  & \"<--步骤状态=0执行，步骤名不可和其它规则里重名\" != \"\"\n\n & \"按住左键，步骤状态设置为1\" != \"\"\n\n? new ISideEffect[]{\n\n按住按键(Keys.LButton),\n\n设置执行步骤(\"阴爪\", 1)\n}\n:\n按键间隔(0.25) &&\n获取当前步骤(\"阴爪\") == 1 & \"<--步骤状态=1执行\" != \"\"\n\n & \"间隔250ms按下R，步骤状态设置为0\" != \"\"\n\n? new ISideEffect[]{\n\n按下按键(\"R\"),\n\n设置执行步骤(\"阴爪\", 0)\n}\n: null",
+              "Type": 2,
+              "KeyV2": null,
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "阴爪",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        },
+        {
+          "Rules": [
+            {
+              "RuleSource": "按键间隔(0.1) &&\n识别怪物(50).Any()\n? new ISideEffect[]{\n按下按键(Keys.LButton)\n}\n: null",
+              "Type": 2,
+              "KeyV2": null,
+              "SyntaxVersion": 1
+            },
+            {
+              "RuleSource": "按键间隔(5) && \n识别怪物(50).Any()",
+              "Type": 0,
+              "KeyV2": {
+                "ControllerKey": "None",
+                "ControllerModifierKey": "None",
+                "Key": "F",
+                "Win": false
+              },
+              "SyntaxVersion": 1
+            }
+          ],
+          "Enabled": false,
+          "EnabledInTown": false,
+          "EnabledInHideout": false,
+          "EnabledInPeacefulAreas": false,
+          "EnabledInMaps": true,
+          "Name": "闪电箭",
+          "KeyV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          },
+          "hotkeyNode": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          },
+          "Key": 0
+        }
+      ]
+    }
+  },
+  "CurrentProfile": "设置模板",
+  "ShowDebugWindow": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "InspectState": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "GlobalKeyPressCooldown": {
+    "Value": 30
+  },
+  "MaximumMonsterRange": {
+    "Value": 200
+  },
+  "HistorySecondsToKeep": {
+    "Value": 60
+  },
+  "ImageDirectory": {
+    "Value": "textures/ReAgent"
+  },
+  "PluginSettings": {
+    "GlobalKeyPressCooldown": {
+      "Value": 30
+    },
+    "MaximumMonsterRange": {
+      "Value": 200
+    },
+    "HistorySecondsToKeep": {
+      "Value": 60
+    },
+    "EnableInEscapeState": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "KeepEnableTogglesOnASingleLine": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ColorEnableToggles": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableVerticalGroupTabs": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "VerticalTabContainerWidth": {
+      "Value": 150
+    }
+  },
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  }
+}

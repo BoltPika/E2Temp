@@ -1,0 +1,153 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "PartyElements": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "TargetPlayerName": {
+    "Value": ""
+  },
+  "FollowDistance": {
+    "Value": 460
+  },
+  "ActionCooldown": {
+    "Value": 50
+  },
+  "ActionCooldownMax": {
+    "Value": 150
+  },
+  "NoSpace": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "TogglePauseHotkey": {
+    "Value": 51
+  },
+  "IsPaused": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Additional": {
+    "UseMouse": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "FollowKey": {
+      "Value": 84
+    }
+  },
+  "Blink": {
+    "Enable": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Range": {
+      "Value": 1000
+    },
+    "Cooldown": {
+      "Value": 500
+    }
+  },
+  "Pickup": {
+    "Enable": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "UseTargetPosition": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Range": {
+      "Value": 400
+    },
+    "Filter": {
+      "Value": "Orb,Mirror"
+    },
+    "RangeToIgnore": {
+      "Value": 1200
+    }
+  },
+  "ShockBot": {
+    "Enable": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ActionCooldown": {
+      "Value": 1000
+    },
+    "Range": {
+      "Value": 1000
+    },
+    "BallLightningKey": {
+      "Value": 81
+    },
+    "LightningWarpKey": {
+      "Value": 87
+    },
+    "RangeToUseLightningWarp": {
+      "Value": 600
+    }
+  }
+}

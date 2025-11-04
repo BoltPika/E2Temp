@@ -1,0 +1,369 @@
+{
+  "PickitRules": [
+    {
+      "Enabled": true,
+      "Name": "任务物品.ifl",
+      "Location": "任务物品.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "金装-Lv80以上.ifl",
+      "Location": "金装-Lv80以上.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "白装-全部.ifl",
+      "Location": "白装-全部.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "通货-全部.ifl",
+      "Location": "通货-全部.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "丝克玛试炼.ifl",
+      "Location": "丝克玛试炼.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "技能石-自定义等级.ifl",
+      "Location": "技能石-自定义等级.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "换届石-自定义阶级.ifl",
+      "Location": "换届石-自定义阶级.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "珠宝-自定义.ifl",
+      "Location": "珠宝-自定义.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "暗金-全部.ifl",
+      "Location": "暗金-全部.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "暗金-自定义.ifl",
+      "Location": "暗金-自定义.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "白装-恒星+蓝玉.ifl",
+      "Location": "白装-恒星+蓝玉.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "碑牌-自定义.ifl",
+      "Location": "碑牌-自定义.ifl"
+    },
+    {
+      "Enabled": true,
+      "Name": "符文核心.ifl",
+      "Location": "符文核心.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "通货-自定义.ifl",
+      "Location": "通货-自定义.ifl"
+    },
+    {
+      "Enabled": false,
+      "Name": "门票-自定义.ifl",
+      "Location": "门票-自定义.ifl"
+    }
+  ],
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "StopAutoPick": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "InventoryRender": {
+    "ShowInventoryView": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreFullscreenPanels": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreLargePanels": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreChatPanel": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreLeftPanel": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreRightPanel": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Position": {
+      "Value": {
+        "X": 50.0,
+        "Y": 50.0
+      }
+    },
+    "BackdropPadding": {
+      "Value": 1
+    },
+    "CellSize": {
+      "Value": 20
+    },
+    "CellSpacing": {
+      "Value": 1
+    },
+    "ItemOutlineWidth": {
+      "Value": 1
+    },
+    "BackgroundColor": "00000032",
+    "ItemOutlineColor": "ffffffff",
+    "OccupiedSlotColor": "e73838a0",
+    "UnoccupiedSlotColor": "82fa8251"
+  },
+  "InventoryPos": {
+    "Value": {
+      "X": 0.0,
+      "Y": 165.611
+    }
+  },
+  "ProfilerHotkey": {
+    "Value": 0
+  },
+  "PickUpKey": {
+    "Value": 70
+  },
+  "PickUpWhenInventoryIsFull": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "PickUpEverything": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ItemPickupRange": {
+    "Value": 100
+  },
+  "MonsterCheckRange": {
+    "Value": 100
+  },
+  "PauseBetweenClicks": {
+    "Value": 50
+  },
+  "IgnoreMoving": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ItemDistanceToIgnoreMoving": {
+    "Value": 20
+  },
+  "AutoClickHoveredLootInRange": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "SmoothCursorMovement": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "UseInputLock": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "LazyLooting": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "NoLazyLootingWhileEnemyClose": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "LazyLootingPauseKey": {
+    "Value": 0
+  },
+  "NoLootingWhileEnemyClose": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "MiscOptions": {
+    "MiscPickitRange": {
+      "Value": 15
+    },
+    "ClickChests": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ClickChestsStrongBoxes": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ClickDoors": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ClickZoneTransitions": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  },
+  "CustomConfigDir": {
+    "Value": ""
+  }
+}

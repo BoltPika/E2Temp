@@ -1,0 +1,91 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "EnableSoundAlerts": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Volume": {
+    "Value": 50
+  },
+  "ModifiersToAlert": {
+    "Value": "volatile, ondeath, speed, proximal, explo, beacon, barrier, storm, immune"
+  },
+  "ShowAlertText": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "AlertPositionX": {
+    "Value": 10.0
+  },
+  "AlertPositionY": {
+    "Value": 10.0
+  },
+  "HealthBarYOffset": {
+    "Value": 40
+  },
+  "Font": {
+    "Value": "FrizQuadrataITC:22"
+  },
+  "DebugMessages": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "PlayAlert": {},
+  "TrackModifiers": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ObservedModifiersFile": {
+    "Value": "observed_modifiers.txt"
+  },
+  "OpenObservedFile": {},
+  "AnchorToHealthbar": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  }
+}

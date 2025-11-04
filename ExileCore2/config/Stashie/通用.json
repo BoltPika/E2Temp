@@ -1,0 +1,139 @@
+{
+  "ParentMenu": [
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "全部",
+          "RawQuery": "ClassName == \"StackableCurrency\"\n&& !ContainsString(Path, new string[] { \"CurrencyDelveCrafting\", \"CurrencyItemisedProphecy\", \"CurrencyAfflictionOrb\", \"Mushrune\", \"Essence\" })\n&& !ContainsString(BaseName, new string[] { \"Stacked Deck\", \"Catalyst\", \"Primeval Remnant\", \"Remnant\", \"Splinter\", \"Oil Extractor\" , \"Filled Coffin\"})",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "通货"
+    },
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "全部珠宝",
+          "RawQuery": "ClassName == \"Jewel\"",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "珠宝"
+    },
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "碑牌",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"碑牌\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "裂痕碎片",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"裂痕\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "催化剂",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"催化劑\",\"催化剂\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "精髓",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"精髓\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "幻像碎片",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"幻像\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "涂油",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"精煉的\",\"精炼的\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "换届石",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"地图钥匙\",\"地圖鑰匙\" })",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "异界"
+    },
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "巨灵之币",
+          "RawQuery": "ContainsString(BaseName, new string[] { \"巨灵之币\",\"巨靈之幣\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "最后通牒",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"雕刻\" })",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "升华门票"
+    },
+    {
+      "Filters": [],
+      "MenuName": "杂项"
+    },
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "技能",
+          "RawQuery": "ContainsString(ClassName, new string[] { \"Gem\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "符文",
+          "RawQuery": "\nContainsString(BaseName, new string[] { \"符文\" })",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "杂项"
+    },
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "重革腰带",
+          "RawQuery": "Rarity == ItemRarity.Normal && ContainsString(BaseName, new string[] { \"重革腰帶\",\"重革腰带\" })",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "白装"
+    },
+    {
+      "Filters": [
+        {
+          "Affinity": false,
+          "FilterName": "骨",
+          "RawQuery": "ContainsString(BaseName, new string[] { \"骨\",\"椎\" })",
+          "Shifting": false
+        },
+        {
+          "Affinity": false,
+          "FilterName": "兆",
+          "RawQuery": "ContainsString(BaseName, new string[] { \"之兆\" })",
+          "Shifting": false
+        }
+      ],
+      "MenuName": "深渊"
+    }
+  ]
+}

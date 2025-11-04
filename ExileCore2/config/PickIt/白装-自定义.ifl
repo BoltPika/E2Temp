@@ -1,0 +1,2 @@
+Rarity == ItemRarity.Normal && 
+ContainsString(BaseName, new string[] { "恆星項鏈","藍玉戒指","雙子之弓","雙生之弓","重革腰帶","聖潔法器" }) //自行添加-要拾取项目名称

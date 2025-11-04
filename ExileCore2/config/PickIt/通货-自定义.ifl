@@ -1,0 +1,3 @@
+ClassName.EndsWith("Currency") 
+&& ContainsString(BaseName, new string[] { "魔鏡","神聖","無效","機會","混沌","崇高" }) //自行添加-要拾取项目名称
+&& ContainsString(BaseName, new string[] { "魔镜","神圣","无效","机会","混沌","崇高" })

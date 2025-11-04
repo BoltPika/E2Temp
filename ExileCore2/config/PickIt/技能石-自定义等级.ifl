@@ -1,0 +1,7 @@
+ClassName.Contains("SkillGem") && int.Parse(Path.Substring(33)) >= 19 //技能宝石 等级修改最后数字 1-20
+
+ClassName.Contains("ReservationGem") && int.Parse(Path.Substring(39)) >= 18 //精魂宝石 等级修改最后数字 1-20
+
+ClassName.Contains("SupportGem") && int.Parse(Path.Substring(35)) >= 3 //辅助宝石 等级修改最后数字 1-5
+
+ClassName == "Support Skill Gem" && ContainsString(BaseName, new string[] { "達拉的渴望","萊基亞塔的流動","" }) //特殊辅助宝石 引号里填只要捡的名称 有空的则全部拾取

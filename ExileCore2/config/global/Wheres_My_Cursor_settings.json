@@ -1,0 +1,51 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "WmcLineType": {
+    "Value": 1
+  },
+  "WmcLineColor": "ffffffff",
+  "WmcLineLength": {
+    "Value": 200
+  },
+  "WmcLineSize": {
+    "Value": 1
+  },
+  "WmcPlayerOffsetXNegitive": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "WmcPlayerOffsetX": {
+    "Value": 0
+  },
+  "WmcPlayerOffsetYNegitive": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "WmcPlayerOffsetY": {
+    "Value": 0
+  }
+}

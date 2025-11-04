@@ -1,0 +1,1133 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ms": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "IgnoreFullscreenPanels": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "IgnoreLargePanels": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "EntityLookupRange": {
+    "Value": 120
+  },
+  "EntityGroups": {
+    "Content": [
+      {
+        "PathTemplates": {
+          "Content": [
+            {
+              "Value": "\\wdeath"
+            },
+            {
+              "Value": "\\bburning"
+            },
+            {
+              "Value": "\\bfire"
+            },
+            {
+              "Value": "\\blightning"
+            },
+            {
+              "Value": "\\bbeam"
+            },
+            {
+              "Value": "\\bchaos"
+            },
+            {
+              "Value": "\\bground_effects"
+            },
+            {
+              "Value": "\\brare_kill"
+            },
+            {
+              "Value": "\\bmonsters_effects"
+            }
+          ]
+        },
+        "CircleColor": "ffffff00",
+        "BorderThickness": {
+          "Value": 1.0
+        },
+        "BorderColor": "ffffffd7",
+        "CustomScale": {
+          "Value": 1.0
+        },
+        "IgnoreBaseSize": {
+          "Value": false,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "CustomSize": {
+          "Value": 1.0
+        },
+        "BaseSizeOverride": {
+          "Value": 0
+        },
+        "IgnoreScale": {
+          "Value": false,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        }
+      }
+    ]
+  },
+  "BlacklistTemplates": {
+    "Content": []
+  },
+  "CollectUnknownEffects": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "UnknownEffects": {
+    "Content": [
+      {
+        "Value": "Metadata/Effects/weather_attachments/G1_4/clearfell_screenfogwithleaves.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_2/G1_2_ClearfellScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Gallows/ClearfellBull2.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Gallows/ClearfellBull1.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Tools/marker2.ao"
+      },
+      {
+        "Value": "Metadata/Effects/misc/blank.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Hedgehog/Hedgehog.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Hags/Hag1.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Urchins/UrchinSlingBandages.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Urchins/UrchinSlingOveralls.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Wolves/WolfZombie.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/Lumberjack3WetPhysics.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet4.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Riverbed/FX/g1_Town_fog.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_Town/G1_TownScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clearfell/Felling_Torch.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Village/Crates_02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Leagues/Expedition/Encampment/ExpCage_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Leagues/Expedition/Encampment/ExpBucket_02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Leagues/Expedition/Encampment/ExpBucket_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Village/HandTool04.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Village/HandTool03.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Village/HandTool02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Oriath/Harbour/LampPost01_light.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Oriath/Harbour/LampPost01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_Town/InsideWaterMillAudio.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_Town/FurnaceFireAudio.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Chicken/Chicken.ao"
+      },
+      {
+        "Value": "Metadata/NPC/Four_Act1/EzomyteCivilianFemale01NoPhys_Lumbermill.ao"
+      },
+      {
+        "Value": "Metadata/NPC/Four_Act1/EzomyteCivilianFemale02NoPhys_Lumbermill.ao"
+      },
+      {
+        "Value": "Metadata/NPC/Four_Act1/EzomyteCivilianMale01NoPhys_Lumbermill.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clearfell/ClearfellLog_05.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clutter/Clutter_6.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clearfell/logpiles_02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clutter/Clutter_30.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clearfell/ClearfellLog_01_wet.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/pets/exiled_squire/ao/kickup_dust.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/Wells/Well_UseAudio.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Carts/LumbermillWagon_02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Clutter/Clutter_4.ao"
+      },
+      {
+        "Value": "Metadata/Characters/StrDex/StrDexFourB.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/herald_of_fire/EPKs/HeraldOfAsh_OffAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/pets/summon/unsummon.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_3/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/Endgame/Town/Endgame_TownScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/Ziggurat/SunMachineMapDevice/SunMachineMapDevice_PortalSource01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/VaalInterior/ZigguratRings.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G4_3_2/G4_3_2_SingingCaverns.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Gallows/Act4/4_3_2/Objects/JellyLight.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/PlayerSummoned/Warrior/SkeletonWarriorPlayerSummoned.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/pets/BabyCrowbell/slam_round.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/League_Affliction/fogAttachment.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G2_8/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/Endgame/Maps/Deserted/Map_DesertedScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Scorpion/Yellow.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Beetle/Beetle.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/DemonSpiders/BlackStrider/BlackStrider.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/DemonSpiders/MeleeSpider/MeleeSpider.ao"
+      },
+      {
+        "Value": "Metadata/Effects/misc/blood_orbs/orb.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/grd_Zones/grd_Shocked01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/debuff_fx/Audio/FreezeShatter.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/grd_Zones/grd_Chilled01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/cold_herald_of_ice/ao/ice_explosion.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/Maraketh/BleachedBoneAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/Maraketh/MarakethSkeletonRisenArcher.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/MudGolem/SandGolem2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/SandGolemancer/SandGolemancerAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Daemon/Daemon.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spell_surges/muzzleFlash.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueDelirium/Minions/DeliriumMinion4.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueDelirium/Minions/DeliriumMinion1.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueDelirium/Minions/DeliriumMinion6.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueDelirium/Minions/DeliriumMinion3.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/PitifulFabrications/PitifulFabrication03.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/BoneCultists/BoneCultist_Zealots/BoneCultistZealots01.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/PitifulFabrications/PitifulFabrication01.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Ghouls/FarudinCrawler.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/PitifulFabrications/PitifulFabrication02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueDelirium/Minions/DeliriumMinion2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueDelirium/Minions/DeliriumMinion5.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/demon_portal/sml_demon_portal.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonFodder2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonFodder3.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonElite2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/SkeletonSnake/SkeletonSnake.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Clone/DexIntBLightningClone.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/EtchedBeetles/SmallEtchedBeetleDullArmour.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/EtchedBeetles/MediumEtchedBeetleDullArmour.ao"
+      },
+      {
+        "Value": "Metadata/Effects/misc/unique_drop/uniquedrop.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonFodder1.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/EtchedBeetles/MediumEtchedBeetleAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Items/Currency/CoinPileMedium.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/SandGolemancer/SandGolemancer.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/Maraketh/MarakethSkeletonRisenMage.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/Maraketh/MarakethSkeletonRisenInfantry.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/undead_summon_skeletons/summon_circle.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monk_energyblades/energy_slash.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/MundaneMagi/MundaneMagi.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/Maraketh/MarakethSkeletonRisenCrossbow.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonElite1.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/act1/Crypt/Crypt_screenfog.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/Endgame/Maps/SulphuricCaverns/Map_SulphuricCavernsScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Cenobite/CenobiteBloater/Bloater_01.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Anchorite/AnchoriteFlatHead/AnchoriteFlatHead.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Anchorite/AnchoriteSpawn/AnchoriteSpawn.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Cenobite/CenobiteStoneThrower/CenobiteStoneThrower.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/breach/soulcoaster/soulcoaster_06.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/breach/soulcoaster/soulcoaster_04.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/breach/soulcoaster/soulcoaster_05.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G2_13/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G2_13/G2_13_TrialOfTheSekhemasScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Desert/MarakethRuin/MarakethRuin_StatueLight.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Spider/RedGreenWebSpider.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/Gallows/Act2/g2_4_1/footstep_M.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Desert/CavePath/Effects/Ao/debris.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Desert/KethAscendancy/EntranceDoor01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Desert/KethAscendancy/KethAscendancyWaypointBase01_01.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Weta/Basic.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/act1/Village_Road/Village_Road_screenfog.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/Endgame/Maps/Steppe/Map_SteppeScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/RatMonster/RatMonster_2/RatMonster_2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/QuillCrab/QuillCrab.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Knight/DeathKnight.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Skeletons/Grave/GraveSkeleton.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Quadrilla/Quadrilla.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/SpiderMonkey/SpiderMonkey.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/ArmadilloDemon/ArmadilloDemon.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/GoreCharger/GoreCharger01.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/HuhuGrub/HuhuGrubLarvae.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/ChawMongrel/ChawMongrel.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/base_arrow_attack/shatter.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G2_4_2/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G2_4_2/G2_4_2_KethScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/SummonedMinion/HellhoundDemon/Hellhound.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/aura_discipline/Audio/DisciplineOffAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_4_new/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/Endgame/Maps/Augury/Map_AuguryScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/GlyphrailsConnector01_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/GlyphrailsSingleStraight01_02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/VaalInterior/BreakableArchways/ThinDoor01.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Spider/NurseryWebSpider.ao"
+      },
+      {
+        "Value": "Metadata/Critters/Snake/Cobra.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Wraith/WraithHoodedLightning.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/CauldronCrone/CauldronCrone.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Cenobite/CenobitesSlam/CenobitesSlam.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Monkeys/Bramble/BrambleMonkey.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Woods/Riverbed/newRainAtteachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_1/G1_1_RiverbankScatterer.ao"
+      },
+      {
+        "Value": "Metadata/NPC/Four_Act1/intro_zombie_interact/IntroSettlerPeasant01Bloody.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Environment/act1/tutorial/twilight_strand/force_wall/force_wall.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet7_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet2Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet8Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/mercenary_crossbow/cb_muzzleFlash.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/crossbow_basic/bolt_basic.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet4Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberingZombieAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet8_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet6_02.ao"
+      },
+      {
+        "Value": "Metadata/Items/Currency/CoinPileSmall.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet2_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet7Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet4_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet6Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet9_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet11Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet10Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet10_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet5Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/SwollenMiller/SwollenMiller.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_1/TownEntrance.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Woods/Lumbermill/Encampment_Gate.ao"
+      },
+      {
+        "Value": "Metadata/NPC/Four_Act1/DogTrader.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/Lumberjack3WetPhysics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet12Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet1Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Zombies/Lumberjack/LumberjackWet9Physics_02.ao"
+      },
+      {
+        "Value": "Metadata/Effects/misc/Quest_Indicator/Indicator_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/Character_FX/jellyfish/fish_beam_voidemp.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/aura_purity/Audio/PurityOffAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_16/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_16/G3_16_AggoratPastScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/BloodyVaalGoliathLiving.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/BloodyVaalAxeThrower.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/BloodyVaalCasterLivingShapeshifter.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/BloodPriests/BloodyVaalBloodPriestFemale.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Zealots/Spear/Blood/BloodyVaalZealotSpearBlood.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Zealots/Dagger/Blood/BloodyVaalZealotDaggerBlood.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Zealots/Dagger/VaalDaggerAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/VaalShapeshifterAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monk_bell/bell_Object.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monk_bell/soundWave_AoE.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/VaalAxeThrowerAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Zealots/Spear/VaalSpearAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/VaalShapeshifterJaguar.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/VaalCasterLivingShapeshifter.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/BloodPriests/BloodyVaalBloodPriestMale.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/VaalGoliathLivingAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_town_past/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_14/G3_14_SunkenRuinsPastScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_Town/InsideTimePortalAudio.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_Town/TimePortalBoundryAudio.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Tools/Marker_Pin_Environment_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Dungeon/Ziggurat/ZigguratArena/ZigguratArenaFlying01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_6_1/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_6_1/G3_6_1_TheUpperMachinariumScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalPots/VaalPotCluster01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/GlyphrailsCap03_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/VaalInterior/Doors/VaalIntDoor01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/VaalInterior/BreakableArchways/ThickDoor01.ao"
+      },
+      {
+        "Value": "Metadata/NPC/League/Incursion/TreasureHunter.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalConstructs/Sentinel/VaalSentinelRedesign.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalLibrary/Chest07.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Town/jungle_town_TownTriDoor_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/aura_pride/Audio/MaliceOffAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/foot_prints/synthesis/Synthesis_FP.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G1_2/BurrowEntrance.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_17/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_17/G3_17_DoryanisSanctumScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/DoryanisSanctum/Mortar01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Gallows/Act3/3_17/Objects/Bosslight02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Gallows/Act3/3_17/Objects/Bosslight03.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Tools/marker3.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Gallows/Act3/3_17/Objects/ArenaCrystal_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/ArenaWalkway_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/DoryaniMechanism.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Doryani/TrueDoryani/TrueDoryani.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/DoryaniMechSuit/CrabMech.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/RaisingPlatform.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/ArenaDissectionTableAlva.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/foot_prints/synthesis/Synthesis_FP_idle.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_whirlingslash/whirlingSlash_AoE.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_tornadoes/mini_tornado.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_tornadoes/mini_tornado_COLD.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_whirlingslash/detonation_AoE.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/cold_frost_bolt/projectile.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_whirlingslash/whirlingSlash_AoE_COLD.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/bow_barrage/spear_muzzle.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_whirlingslash/detonation_AoE_COLD.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/cold_frost_bolt/explosion.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/bloodgem_mine.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/monster_mods/ice/chilled_ground/ao/grd_Chilled01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/bodyslam.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/slam_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/bloodgem_laser.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/spear_tamebeast/captured_Beam.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/Platforms/walkway_09.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/Platforms/walkway_04.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/Platforms/walkway_02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/DoryaniDoor01.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidBladeHands/VaalHumanoid05.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Living/VaalCasterLiving.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidCannon/VaalHumanoidCannonLightning.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidBow/VaalHumanoid07Legs.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidBow/VaalHumanoid07Body.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/Quadrilla/QuadrillaAggroAudio.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/base_arrow_attack/arrow_base_stuck.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid_07/arrow_base.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalSorcerer/ao/BallLightning/orb.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalSorcerer/ao/BallLightning/orb_bolt.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid_07/SR_arrow_lightning.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidPyramidHands/VaalHumanoid01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid_07/SR_impact_lightning.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid_07/SR_placed_object_lightning_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid_07/SR_lightning_beam.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Quadrilla/ao/sunder.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidCannon/VaalHumanoidCannonSkitterMine.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/Platforms/walkway_05.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/Platforms/walkway_10.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidBow/VaalHumanoid07_Aggro.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidGoliathFist/VaalHumanoid02.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidSwordShield/VaalHumanoid04.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Sanctum/Platforms/walkway_06.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalHumanoids/VaalHumanoidSwordShield/VaalHumanoid04_Aggro.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/monster_mods/exploding_orbs/exploding_orb.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid02/RocketFist_projectile.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalHumanoid02/RocketFist_wall_impact_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/monster_mods/exploding_orbs/exploding_orb_explode.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Zealots/NPC/VaalZealotFlee2.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/VaalMonsters/Zealots/NPC/VaalZealotFlee1.ao"
+      },
+      {
+        "Value": "Metadata/Effects/weather_attachments/G3_town/weather_attachment.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Tools/AudioTools/G3_Town/G3_Town_TheZigguratEncampmentScatterer.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/pets/Pet_Teleport/Pet_TeleportSmoke.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Islands/TownCartCrateEmpty01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalGoldClutter/GoldProduction09_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalGoldClutter/CannisterSmall01_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalGoldClutter/VaalPropPileMix07_01_Gold.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalGoldClutter/VaalPropPileMix05_01_Gold.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/pets/summon/summon.ao"
+      },
+      {
+        "Value": "Metadata/Pet/AzmeriStag/attachments/AzmeriStagMirror.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalGoldClutter/GoldProduction08_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalGoldClutter/CannisterSmall04_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo03.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo18.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo02.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo10.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalPots/VaalPotCluster20.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo17.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/UtzaalTrolleys/attachments/GolemTrolleyGoods_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo11.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/SnakePit/SnakePitPropsCargo04.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Islands/TownCartTrophyFull01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Islands/TownCartCrateFull01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/DoryanisSanctum/DoryaniFlowersTall_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Islands/KalguurTownCartEmpty01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Islands/KalguurTownCartFull01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Doodads/Jungle/VaalProps/DoryanisSanctum/DoryaniFlowersLarge_01.ao"
+      },
+      {
+        "Value": "Metadata/Terrain/Jungle/Town/jungle_town_water_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/bloodgem_bounce.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/bloodgem_mine_aoe.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/greater_fireball_proj.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/greater_fireball_aoe.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/refract_cone.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/laser_blast.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/floorgem_emerge.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/crawling_bolt.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/solar_orb.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/basic_slam_01.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/combo_splitslam.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/clap_aoe_large.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/flameblast_ranged_charge.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/flameblast_ranged_charge_solarorb.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/DoryaniMechSuit/attachments/CrabMechLegs.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/laser_blast_impact.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/slam_02.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/selfdestr_lightning_nova.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/selfdestr_phys_slam.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/Doryani/coldbeam_corr_rectslam.ao"
+      },
+      {
+        "Value": "Metadata/Effects/Microtransactions/on_kill/GuillotineDrop/guillotine_drop.ao"
+      },
+      {
+        "Value": "Metadata/Monsters/DoryaniMechSuit/HovercraftCrashed.ao"
+      }
+    ]
+  }
+}

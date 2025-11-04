@@ -1,0 +1,75 @@
+{
+  "RenderSettings": {
+    "HowManyBreachesToRender": {
+      "Value": 5
+    },
+    "RenderStaticRange": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HideStaticRangeAfterClear": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "RenderActiveRange": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "StaticBreachColor": "800080ff",
+    "ActiveBreachColor": "ffffffff",
+    "CirclesThickness": {
+      "Value": 2
+    }
+  },
+  "DebugMenu": {
+    "ShowDebugMenu": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "SpecificDuration": {
+      "Value": 55
+    },
+    "SpecificRange": {
+      "Value": 450
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  }
+}

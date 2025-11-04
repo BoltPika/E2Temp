@@ -1,0 +1,329 @@
+{
+  "Profiles": {
+    "自定义": {
+      "RoomTypeWeights": {
+        "Gauntlet": -1000.0,
+        "Hourglass": -200.0,
+        "Chalice": 0.0,
+        "Ritual": 0.0,
+        "Escape": 100.0,
+        "Boss": 0.0
+      },
+      "AfflictionWeights": {
+        "Orbala's Leathers": 0.0,
+        "Glass Shard": -4000.0,
+        "Ghastly Scythe": -4000.0,
+        "Veiled Sight": -4000.0,
+        "Myriad Aspersions": -4000.0,
+        "Deceptive Mirror": -4000.0,
+        "Purple Smoke": -4000.0,
+        "Golden Smoke": -400.0,
+        "Red Smoke": -4000.0,
+        "Black Smoke": -4000.0,
+        "Rapid Quicksand": -1000.0,
+        "Deadly Snare": -1000.0,
+        "Forgotten Traditions": -1000.0,
+        "Season of Famine": -1000.0,
+        "Orb of Negation": -1000.0,
+        "Winter Drought": -1000.0,
+        "Branded Balbalakh": -1000.0,
+        "Chiselled Stone": -1000.0,
+        "Weakened Flesh": -100.0,
+        "Untouchable": -1000.0,
+        "Costly Aid": -900.0,
+        "Blunt Sword": -1000.0,
+        "Spiked Shell": -1000.0,
+        "Suspected Sympathiser": -200.0,
+        "Haemorrhage": -100.0,
+        "Corrosive Concoction": 0.0,
+        "Iron Manacles": 0.0,
+        "Shattered Shield": 0.0,
+        "Unquenched Thirst": -200.0,
+        "Unassuming Brick": -1000.0,
+        "Tradition's Demand": -800.0,
+        "Fiendish Wings": -400.0,
+        "Hungry Fangs": -600.0,
+        "Worn Sandals": -400.0,
+        "Trade Tariff": -300.0,
+        "Death Toll": -400.0,
+        "Spiked Exit": -300.0,
+        "Exhausted Wells": 0.0,
+        "Gate Toll": -100.0,
+        "Leaking Waterskin": -100.0,
+        "Low Rivers": -100.0,
+        "Sharpened Arrowhead": 0.0,
+        "Rusted Mallet": 0.0,
+        "Chains of Binding": 0.0,
+        "Dishonoured Tattoo": 0.0,
+        "Tattered Blindfold": 0.0,
+        "Dark Pit": 0.0,
+        "Honed Claws": 0.0
+      },
+      "RewardWeights": {
+        "Gold Key": 0.0,
+        "Silver Key": 0.0,
+        "Bronze Key": 0.0,
+        "Golden Cache": 0.0,
+        "Silver Cache": 0.0,
+        "Bronze Cache": 0.0,
+        "Large Fountain": 100.0,
+        "Fountain": 50.0,
+        "Pledge to Kochai": 20.0,
+        "Honour Halani": 8.0,
+        "Honour Ahkeli": -1.0,
+        "Honour Orbala": 50.0,
+        "Honour Galai": 300.0,
+        "Honour Tabana": 0.0,
+        "Merchant": 20.0
+      }
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "DebugEnable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "CurrentProfile": {
+    "Value": "默认"
+  },
+  "ResetProfile": {},
+  "SyncToCustom": {},
+  "TextColor": "ffffffff",
+  "BackgroundColor": "00000080",
+  "BestPathColor": "00ffffff",
+  "FrameThickness": {
+    "Value": 5
+  },
+  "WeightNode": {
+    "RoomTypeWeights": {
+      "Gauntlet": {
+        "Value": -1000
+      },
+      "Hourglass": {
+        "Value": -200
+      },
+      "Chalice": {
+        "Value": 0
+      },
+      "Ritual": {
+        "Value": 0
+      },
+      "Escape": {
+        "Value": 100
+      },
+      "Boss": {
+        "Value": 0
+      }
+    },
+    "AfflictionWeights": {
+      "OrbalaLeathers": {
+        "Value": 0
+      },
+      "GlassShard": {
+        "Value": -4000
+      },
+      "GhastlyScythe": {
+        "Value": -4000
+      },
+      "VeiledSight": {
+        "Value": -4000
+      },
+      "MyriadAspersions": {
+        "Value": -4000
+      },
+      "DeceptiveMirror": {
+        "Value": -4000
+      },
+      "PurpleSmoke": {
+        "Value": -4000
+      },
+      "GoldenSmoke": {
+        "Value": -400
+      },
+      "RedSmoke": {
+        "Value": -4000
+      },
+      "BlackSmoke": {
+        "Value": -4000
+      },
+      "RapidQuicksand": {
+        "Value": -1000
+      },
+      "DeadlySnare": {
+        "Value": -1000
+      },
+      "ForgottenTraditions": {
+        "Value": -1000
+      },
+      "SeasonOfFamine": {
+        "Value": -1000
+      },
+      "OrbOfNegation": {
+        "Value": -1000
+      },
+      "WinterDrought": {
+        "Value": -1000
+      },
+      "BrandedBalbalakh": {
+        "Value": -1000
+      },
+      "ChiselledStone": {
+        "Value": -1000
+      },
+      "WeakenedFlesh": {
+        "Value": -100
+      },
+      "Untouchable": {
+        "Value": -1000
+      },
+      "CostlyAid": {
+        "Value": -900
+      },
+      "BluntSword": {
+        "Value": -1000
+      },
+      "SpikedShell": {
+        "Value": -1000
+      },
+      "SuspectedSympathiser": {
+        "Value": -200
+      },
+      "Haemorrhage": {
+        "Value": -100
+      },
+      "CorrosiveConcoction": {
+        "Value": 0
+      },
+      "IronManacles": {
+        "Value": 0
+      },
+      "ShatteredShield": {
+        "Value": 0
+      },
+      "UnquenchedThirst": {
+        "Value": -200
+      },
+      "UnassumingBrick": {
+        "Value": -1000
+      },
+      "TraditionsDemand": {
+        "Value": -800
+      },
+      "FiendishWings": {
+        "Value": -400
+      },
+      "HungryFangs": {
+        "Value": -600
+      },
+      "WornSandals": {
+        "Value": -400
+      },
+      "TradeTariff": {
+        "Value": -300
+      },
+      "DeathToll": {
+        "Value": -400
+      },
+      "SpikedExit": {
+        "Value": -300
+      },
+      "ExhaustedWells": {
+        "Value": 0
+      },
+      "GateToll": {
+        "Value": -100
+      },
+      "LeakingWaterskin": {
+        "Value": -100
+      },
+      "LowRivers": {
+        "Value": -100
+      },
+      "SharpenedArrowhead": {
+        "Value": 0
+      },
+      "RustedMallet": {
+        "Value": 0
+      },
+      "ChainsOfBinding": {
+        "Value": 0
+      },
+      "DishonouredTattoo": {
+        "Value": 0
+      },
+      "TatteredBlindfold": {
+        "Value": 0
+      },
+      "DarkPit": {
+        "Value": 0
+      },
+      "HonedClaws": {
+        "Value": 0
+      }
+    },
+    "RewardWeights": {
+      "GoldKey": {
+        "Value": 0
+      },
+      "SilverKey": {
+        "Value": 0
+      },
+      "BronzeKey": {
+        "Value": 0
+      },
+      "GoldenCache": {
+        "Value": 0
+      },
+      "SilverCache": {
+        "Value": 0
+      },
+      "BronzeCache": {
+        "Value": 0
+      },
+      "LargeFountain": {
+        "Value": 100
+      },
+      "Fountain": {
+        "Value": 50
+      },
+      "PledgeToKochai": {
+        "Value": 20
+      },
+      "HonourHalani": {
+        "Value": 8
+      },
+      "HonourAhkeli": {
+        "Value": -1
+      },
+      "HonourOrbala": {
+        "Value": 50
+      },
+      "HonourGalai": {
+        "Value": 300
+      },
+      "HonourTabana": {
+        "Value": 0
+      },
+      "Merchant": {
+        "Value": 20
+      }
+    }
+  }
+}

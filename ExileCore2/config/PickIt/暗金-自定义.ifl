@@ -1,0 +1,2 @@
+Rarity == ItemRarity.Unique && 
+ContainsString(BaseName, new string[] { "重革腰帶","聖潔法器" }) //自行添加-要拾取项目名称

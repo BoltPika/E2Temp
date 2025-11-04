@@ -1,0 +1,427 @@
+{
+  "AllStashNames": [
+    "忽略",
+    "杂货",
+    "装备",
+    "重革",
+    "珠宝",
+    "护符",
+    "门票",
+    "深渊",
+    "白裝",
+    "通货",
+    "技能",
+    "镶嵌",
+    "传奇",
+    "地图",
+    "精髓",
+    "涂油",
+    "祭祀"
+  ],
+  "CustomFilterOptions": {
+    "通货全部": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "珠宝全部珠宝": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "碑牌全部": {
+      "Value": "杂货",
+      "Index": 0
+    },
+    "升华门票巨灵之币": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "升华门票最后通牒": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界碑牌": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界裂痕碎片": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界催化剂": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界精髓": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界幻像碎片": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界涂油": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "异界换届石": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "戒指戒指": {
+      "Value": "底材",
+      "Index": 2
+    },
+    "杂项技能": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "杂项符文": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "白装重革腰带": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "深渊骨": {
+      "Value": "忽略",
+      "Index": -1
+    },
+    "深渊兆": {
+      "Value": "忽略",
+      "Index": -1
+    }
+  },
+  "FilterFile": {
+    "Value": "通用"
+  },
+  "DropHotkey": {
+    "Value": 52
+  },
+  "InspectInventoryItems": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ExtraDelay": {
+    "Value": 100
+  },
+  "StashingCancelTimer": {
+    "Value": 2000
+  },
+  "HoverItemDelay": {
+    "Value": 50
+  },
+  "StashItemDelay": {
+    "Value": 50
+  },
+  "VisitTabWhenDone": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "TabToVisitWhenDone": {
+    "Value": 0
+  },
+  "BackToOriginalTab": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "KeepHighestTPStack": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "KeepHighestIDStack": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "IgnoredCells": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "IgnoredExpandedCells": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "ConfigLastSaved": "通用",
+  "ConfigLastSelected": "通用",
+  "CurrentFilterOptions": {
+    "ParentMenu": [
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "全部",
+            "RawQuery": "ClassName == \"StackableCurrency\"\n&& !ContainsString(Path, new string[] { \"CurrencyDelveCrafting\", \"CurrencyItemisedProphecy\", \"CurrencyAfflictionOrb\", \"Mushrune\", \"Essence\" })\n&& !ContainsString(BaseName, new string[] { \"Stacked Deck\", \"Catalyst\", \"Primeval Remnant\", \"Remnant\", \"Splinter\", \"Oil Extractor\" , \"Filled Coffin\"})",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "通货"
+      },
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "全部珠宝",
+            "RawQuery": "ClassName == \"Jewel\"",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "珠宝"
+      },
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "碑牌",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"碑牌\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "裂痕碎片",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"裂痕\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "催化剂",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"催化劑\",\"催化剂\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "精髓",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"精髓\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "幻像碎片",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"幻像\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "涂油",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"精煉的\",\"精炼的\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "换届石",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"地图钥匙\",\"地圖鑰匙\" })",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "异界"
+      },
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "巨灵之币",
+            "RawQuery": "ContainsString(BaseName, new string[] { \"巨灵之币\",\"巨靈之幣\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "最后通牒",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"雕刻\" })",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "升华门票"
+      },
+      {
+        "Filters": [],
+        "MenuName": "杂项"
+      },
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "技能",
+            "RawQuery": "ContainsString(ClassName, new string[] { \"Gem\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "符文",
+            "RawQuery": "\nContainsString(BaseName, new string[] { \"符文\" })",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "杂项"
+      },
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "重革腰带",
+            "RawQuery": "Rarity == ItemRarity.Normal && ContainsString(BaseName, new string[] { \"重革腰帶\",\"重革腰带\" })",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "白装"
+      },
+      {
+        "Filters": [
+          {
+            "Affinity": false,
+            "FilterName": "骨",
+            "RawQuery": "ContainsString(BaseName, new string[] { \"骨\",\"椎\" })",
+            "Shifting": false
+          },
+          {
+            "Affinity": false,
+            "FilterName": "兆",
+            "RawQuery": "ContainsString(BaseName, new string[] { \"之兆\" })",
+            "Shifting": false
+          }
+        ],
+        "MenuName": "深渊"
+      }
+    ]
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  }
+}

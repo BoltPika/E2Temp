@@ -1,0 +1,267 @@
+{
+  "IconPickerSize": 20,
+  "IconsPerRow": 15,
+  "IconMapping": {
+    "EliteMonstersIndicator": {
+      "ShowOnMap": true,
+      "ShowInWorld": true,
+      "Tint": null
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "WorldIconSize": {
+    "Value": 50
+  },
+  "MapIconSize": {
+    "Value": 30
+  },
+  "DrawGoodModsOnMap": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "DrawGoodModsInWorld": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ExplosivesSettings": {
+    "ShowExplosives": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ExplosiveColor": "ff0000ff",
+    "ExplosiveRadius": {
+      "Value": 326
+    },
+    "CalculateRadiusAutomatically": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableExplosiveRadiusMerging": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MarkCapturedEntitiesInWorld": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MarkCapturedEntitiesOnMap": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HideCapturedEntitiesInWorld": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HideCapturedEntitiesOnMap": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CapturedEntityWorldFrameColor": "008000ff",
+    "CapturedEntityMapFrameColor": "008000ff",
+    "CapturedEntityWorldFrameThickness": {
+      "Value": 2
+    },
+    "CapturedEntityMapFrameThickness": {
+      "Value": 2
+    }
+  },
+  "PlannerSettings": {
+    "ChestSettingsMap": {
+      "LeagueChest": {
+        "Weight": 2.0
+      }
+    },
+    "RelicSettingsMap": {
+      "Logbooks": {
+        "Multiplier": 1.5,
+        "Increase": 0.0
+      },
+      "PackSize": {
+        "Multiplier": 1.25,
+        "Increase": 0.0
+      },
+      "Artifacts": {
+        "Multiplier": 1.0,
+        "Increase": 0.4
+      },
+      "ArtifactsExcavatedChest": {
+        "Multiplier": 1.0,
+        "Increase": 0.4
+      },
+      "Quantity": {
+        "Multiplier": 1.0,
+        "Increase": 0.4
+      },
+      "QuantityExcavatedChest": {
+        "Multiplier": 1.0,
+        "Increase": 0.4
+      }
+    },
+    "DefaultRelicSettings": {
+      "Multiplier": 1.0,
+      "Increase": 0.15
+    },
+    "StartSearchHotkey": {
+      "Value": 124
+    },
+    "StopSearchHotkey": {
+      "Value": 124
+    },
+    "ClearSearchHotkey": {
+      "Value": 124
+    },
+    "ConfirmEditorPlacementHotkey": {
+      "Value": 13
+    },
+    "PlaySoundOnFinish": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ExplosiveColor": "800080ff",
+    "MapLineColor": "ff0000ff",
+    "WorldLineColor": "ffa500ff",
+    "CapturedEntityWorldFrameColor": "800080ff",
+    "CapturedEntityMapFrameColor": "800080ff",
+    "TextMarkerScale": {
+      "Value": 1.0
+    },
+    "MaximumGenerationTimeSeconds": {
+      "Value": 5.0
+    },
+    "SearchThreads": {
+      "Value": 5
+    },
+    "NewRandomPathInjectionRate": {
+      "Value": 1.0
+    },
+    "PathMutateChance": {
+      "Value": 0.5
+    },
+    "PathGenerationSize": {
+      "Value": 100
+    },
+    "ValidatedIntermediatePoints": {
+      "Value": 1
+    },
+    "RunicMonsterWeight": {
+      "Value": 3.0
+    },
+    "RunicMonsterLogbookWeight": {
+      "Value": 3.0
+    },
+    "NormalMonsterWeight": {
+      "Value": 0.2
+    },
+    "LogbookCaveRunicMonsterMultiplier": {
+      "Value": 3
+    },
+    "LogbookCaveArtifactChestMultiplier": {
+      "Value": 3
+    },
+    "LogbookBossRunicMonsterMultiplier": {
+      "Value": 10
+    },
+    "ShowScoreHistory": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ShowScoreHistoryAfterSearchEnds": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  }
+}

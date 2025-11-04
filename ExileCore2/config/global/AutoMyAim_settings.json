@@ -1,0 +1,455 @@
+{
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Track": {
+    "ShowUniqueLines": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "UniqueLine": "f49100ff",
+    "ShowRareLines": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "RareLine": "f1ff00ff",
+    "ShowMagicLines": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MagicLine": "0080ffff"
+  },
+  "UseWalkableTerrainInsteadOfTargetTerrain": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "UsePluginBridgeWarnings": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "AimKey": {
+    "Value": 0
+  },
+  "AimToggleKey": {
+    "Value": 113
+  },
+  "Render": {
+    "EnableDrawing": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ShowDebug": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "WeightVisuals": {
+      "ShowWeights": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "WeightTextColor": "ffffffff"
+    },
+    "ClusterVisuals": {
+      "ShowClusters": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ClusterFillColor": "ffff0080",
+      "ClusterBorderColor": "ffc800c0",
+      "BorderThickness": {
+        "Value": 2.0
+      },
+      "ShowClusterInfo": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ClusterInfoTextColor": "ffdc82ff"
+    },
+    "Panels": {
+      "RenderAndWorkOnFullPanels": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "RenderAndWorkOnleftPanels": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "RenderAndWorkOnRightPanels": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "PaddingPercentToCenter": {
+        "Left": {
+          "Value": 2.0
+        },
+        "Right": {
+          "Value": 3.0
+        },
+        "Top": {
+          "Value": 8.0
+        },
+        "Bottom": {
+          "Value": 15.0
+        }
+      }
+    },
+    "Cursor": {
+      "AcceptableRadius": {
+        "Value": 9
+      },
+      "RandomizeInRadius": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ConfineCursorToCircle": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "CursorCircleRadius": {
+        "Value": 300
+      }
+    }
+  },
+  "Targeting": {
+    "EntityScanDistance": {
+      "Value": 500
+    },
+    "MaxTargetDistance": {
+      "Value": 200.0
+    },
+    "PointToOffscreenTargetsOtherwiseFindNextTargetInBounds": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Weights": {
+      "EnableWeighting": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "DistanceWeight": {
+        "Value": 2.0
+      },
+      "HP": {
+        "EnableHPWeighting": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "PreferHigherHP": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "Weight": {
+          "Value": 1.0
+        }
+      },
+      "Rarity": {
+        "EnableRarityWeighting": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "Normal": {
+          "Value": 1.0
+        },
+        "Magic": {
+          "Value": 2.0
+        },
+        "Rare": {
+          "Value": 3.0
+        },
+        "Unique": {
+          "Value": 4.0
+        }
+      },
+      "Cluster": {
+        "EnableClustering": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "ClusterRadius": {
+          "Value": 25.0
+        },
+        "MinClusterSize": {
+          "Value": 3
+        },
+        "BaseClusterBonus": {
+          "Value": 0.1
+        },
+        "MaxClusterBonus": {
+          "Value": 2.0
+        },
+        "EnableCoreBonus": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "CoreBonusMultiplier": {
+          "Value": 1.2
+        },
+        "CoreRadiusPercent": {
+          "Value": 0.5
+        },
+        "EnableIsolationPenalty": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "IsolationPenaltyMultiplier": {
+          "Value": 0.8
+        }
+      },
+      "Smoothing": {
+        "EnableSmoothing": {
+          "Value": true,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "SmoothingFactor": {
+          "Value": 0.3
+        }
+      }
+    }
+  },
+  "Raycast": {
+    "TargetLayerValue": {
+      "Value": 1
+    },
+    "Visuals": {
+      "GridSize": {
+        "Value": 80
+      },
+      "DrawAtPlayerPlane": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ShowRayLines": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ShowTerrainValues": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "RayLineThickness": {
+        "Value": 2.0
+      },
+      "EntityColors": {
+        "Visible": "23f50059",
+        "Shadow": "ff000059",
+        "RayLine": "23f50000"
+      },
+      "TerrainColors": {
+        "EnableTerrainColorization": {
+          "Value": false,
+          "AttachedHotkey": {
+            "ValueV2": {
+              "ControllerKey": "None",
+              "ControllerModifierKey": "None",
+              "Key": "None",
+              "Win": false
+            }
+          }
+        },
+        "Tile5": "32c83200",
+        "Tile4": "64b432ff",
+        "Tile3": "96a032ff",
+        "Tile2": "b48c32ff",
+        "Tile1": "c87832ff",
+        "Tile0": "d45633ff"
+      }
+    }
+  }
+}

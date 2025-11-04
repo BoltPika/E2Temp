@@ -1,0 +1,425 @@
+{
+  "AutoDumpInstanceOnAreaChange": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ManuallyDumpInstance": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "None",
+      "Win": false
+    }
+  },
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "CustomScale": {
+    "Value": 1.0
+  },
+  "DrawWalkableMap": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "DrawMinimapContour": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "MinimapContourScale": {
+    "Value": 1.0
+  },
+  "MinimapContourBlackBackground": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "TerrainColor": "ffffffff",
+  "MaximumMapTextureDimension": {
+    "Value": 4096
+  },
+  "MaximumPathCount": {
+    "Value": 1000
+  },
+  "PathfindingSettings": {
+    "MapPathSettings": {
+      "ShowPathsToTargetsOnMap": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "DefaultMapPathColor": "008000ff",
+      "UseRainbowColorsForMapPaths": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ShowAllTargets": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "MaxTargetNameCount": {
+        "Value": 100
+      },
+      "IncludeTilePathsAsTargets": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ShowSelectedTargets": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "EnableTargetNameBackground": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "TargetNameColor": "ee82eeff"
+    },
+    "WorldPathSettings": {
+      "ShowPathsToTargets": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "Oem3",
+            "Win": false
+          }
+        }
+      },
+      "ShowPathsToTargetsOnlyWithClosedMap": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "UseRainbowColorsForPaths": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "DefaultPathColor": "ff0000ff",
+      "ShowNamesToTargets": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "TargetNameOffset": {
+        "Value": 50
+      },
+      "UseRainbowColorsForTargetName": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "EnableTargetNameBackground": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "TargetNameColor": "ee82eeff",
+      "OffsetPaths": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "PathThickness": {
+        "Value": 3.5
+      },
+      "DrawEveryNthSegment": {
+        "Value": 4
+      }
+    },
+    "MinimapPathSettings": {
+      "ShowPathsToTargets": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "DefaultPathColor": "008000ff",
+      "UseRainbowColorsForPaths": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ShowNamesToTargets": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "UseRainbowColorsForTargetName": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "EnableTargetNameBackground": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "TargetNameColor": "ee82eeff",
+      "PathThickness": {
+        "Value": 2.0
+      }
+    }
+  },
+  "Debug": {
+    "DrawHeightMap": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DisableHeightAdjust": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "AlternativeEdgeMethod": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "AlternativeEdgeSettings": {
+      "OutlineBlurSigma": {
+        "Value": 0.438
+      },
+      "OutlineTransitionThreshold": {
+        "Value": 0.07
+      },
+      "OutlineFeatherWidth": {
+        "Value": 0.07
+      }
+    },
+    "StandardEdgeSettings": {
+      "SkipNeighborFill": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "SkipEdgeDetector": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "SkipRecoloring": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      }
+    },
+    "DisableDrawRegionLimiting": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreFullscreenPanels": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreLargePanels": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MapCenterOffsetX": {
+      "Value": 0
+    },
+    "MapCenterOffsetY": {
+      "Value": 0
+    }
+  }
+}

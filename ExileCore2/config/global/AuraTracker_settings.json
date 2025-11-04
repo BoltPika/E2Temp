@@ -1,0 +1,237 @@
+{
+  "TrackMagic": false,
+  "TrackRares": true,
+  "TrackUniques": true,
+  "TrackedAurasHeaderOpen": false,
+  "SnapshotHeight": 163,
+  "SnapshotUnique": true,
+  "SnapshotRare": true,
+  "SnapshotMagic": true,
+  "CaptureHeaderOpen": false,
+  "CaptureBuffs": false,
+  "CaptureEveryXTicks": 10,
+  "CapturetHeight": 300,
+  "BarHeaderOpen": true,
+  "BarHPadding": 4,
+  "BarVPadding": 1,
+  "BarWidth": 160,
+  "BarSpacing": 0,
+  "BarBackgroundColor": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 0.75
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "AuraList": [
+    {
+      "Name": "visual_archnemesis_mod_display_buff",
+      "DisplayName": "独角兽屁",
+      "TextColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "BarColor": {
+        "X": 0.51082253,
+        "Y": 0.51082253,
+        "Z": 0.51082253,
+        "W": 1.0
+      },
+      "Enabled": false
+    },
+    {
+      "Name": "monster_flask_drain_aura",
+      "DisplayName": "干旱",
+      "TextColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "BarColor": {
+        "X": 0.50980395,
+        "Y": 0.26666668,
+        "Z": 0.050980393,
+        "W": 1.0
+      },
+      "Enabled": true
+    },
+    {
+      "Name": "proximal_intangibility",
+      "DisplayName": "无形",
+      "TextColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "BarColor": {
+        "X": 0.50980395,
+        "Y": 0.15686275,
+        "Z": 0.050980393,
+        "W": 1.0
+      },
+      "Enabled": true
+    },
+    {
+      "Name": "stun_display_buff",
+      "DisplayName": "眩晕",
+      "TextColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "BarColor": {
+        "X": 0.6666667,
+        "Y": 0.6392157,
+        "Z": 0.19607843,
+        "W": 1.0
+      },
+      "Enabled": true
+    },
+    {
+      "Name": "frozen",
+      "DisplayName": "冰冻",
+      "TextColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "BarColor": {
+        "X": 0.07058824,
+        "Y": 0.5921569,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "Enabled": true
+    },
+    {
+      "Name": "chilled",
+      "DisplayName": "寒冷",
+      "TextColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "BarColor": {
+        "X": 0.27450982,
+        "Y": 0.59607846,
+        "Z": 0.6666667,
+        "W": 1.0
+      },
+      "Enabled": true
+    }
+  ],
+  "SeenBuffs": [
+    {
+      "Name": "hidden_monster",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "monster_aura_energy_shield",
+      "DisplayName": "護盾光環",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "visual_archnemesis_mod_display_buff",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "monster_rare_effect_buff",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "lightning_clone_retaliation",
+      "DisplayName": "閃電複製體復仇",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "number_of_nearby_enemies",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "generic_buff_aura",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "shocked",
+      "DisplayName": "感電",
+      "Duration": 5.0
+    },
+    {
+      "Name": "monster_magic_effect_buff",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "visual_display_buff",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "disable_instant_teleports",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "kitava_heart_damage_taken",
+      "DisplayName": "",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "phasing_buff",
+      "DisplayName": "迷蹤狀態",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "sprinting",
+      "DisplayName": "疾跑",
+      "Duration": "Infinity"
+    },
+    {
+      "Name": "cannot_gain_vaal_souls_at_life_thresholds",
+      "DisplayName": "",
+      "Duration": 2.0
+    },
+    {
+      "Name": "blinded",
+      "DisplayName": "致盲",
+      "Duration": 4.0
+    },
+    {
+      "Name": "curse_lightning_weakness",
+      "DisplayName": "導電",
+      "Duration": 7.2
+    },
+    {
+      "Name": "thaumaturgist_mark",
+      "DisplayName": "奇術師的印記",
+      "Duration": 8.0
+    },
+    {
+      "Name": "",
+      "DisplayName": "",
+      "Duration": 0.0
+    }
+  ]
+}

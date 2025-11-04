@@ -1,0 +1,112 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Score": {
+    "Enable": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MinimumTier": {
+      "Value": 15
+    },
+    "MinimumCraftHighlightScore": {
+      "Value": 30
+    },
+    "MinimumRunHighlightScore": {
+      "Value": 160
+    },
+    "ScoreForExtraRareMonsterModifier": {
+      "Value": 30
+    },
+    "ScorePerRarity": {
+      "Value": 2
+    },
+    "ScorePerQuantity": {
+      "Value": 8
+    },
+    "ScorePerPackSize": {
+      "Value": 2
+    },
+    "ScorePerMagicPackSize": {
+      "Value": 1
+    },
+    "ScorePerExtraPacksPercent": {
+      "Value": 2
+    },
+    "ScorePerExtraMagicPack": {
+      "Value": 1
+    },
+    "ScorePerExtraRarePack": {
+      "Value": 2
+    },
+    "ScorePerAdditionalPack": {
+      "Value": 1
+    },
+    "BannedModifiers": {
+      "Value": "自伤屏蔽<,乾旱之,曝曬之,窒息之,>,地面伤<,冰之,電能之,烈焰之,>"
+    }
+  },
+  "Graphics": {
+    "RunHighlightColor": "008000ff",
+    "CraftHighlightColor": "ffff00ff",
+    "BannedHighlightColor": "ff0000ff",
+    "RunHightlightStyle": {
+      "Value": 1
+    },
+    "CraftHightlightStyle": {
+      "Value": 1
+    },
+    "BannedHightlightStyle": {
+      "Value": 1
+    },
+    "BorderHighlight": {
+      "RunBorderThickness": {
+        "Value": 2
+      },
+      "CraftBorderThickness": {
+        "Value": 2
+      },
+      "BannedBorderThickness": {
+        "Value": 2
+      }
+    },
+    "BoxHighlight": {
+      "RunBoxRounding": {
+        "Value": 1
+      },
+      "CraftBoxRounding": {
+        "Value": 1
+      },
+      "BannedBoxRounding": {
+        "Value": 1
+      }
+    },
+    "FontSize": {
+      "QRFontSizeMultiplier": {
+        "Value": 0.1
+      },
+      "ScoreFontSizeMultiplier": {
+        "Value": 1.0
+      },
+      "PrefSuffFontSizeMultiplier": {
+        "Value": 0.1
+      }
+    }
+  }
+}

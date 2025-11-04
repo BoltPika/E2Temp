@@ -1,0 +1,1 @@
+ContainsString(BaseName, new string[] { "譫妄碑牌","先行者碑牌","裂痕碑牌","祭祀碑牌","探險碑牌" }) //自行添加-要拾取项目名称

@@ -1,0 +1,2 @@
+ClassName == "Omen"
+&& ContainsString(BaseName, new string[] { "" }) //自行添加-要拾取项目名称

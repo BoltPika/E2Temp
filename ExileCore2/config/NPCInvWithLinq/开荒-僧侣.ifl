@@ -1,0 +1,29 @@
+ItemStats[GameStat.BaseMovementVelocityPct]>=10 
+
+ItemStats[GameStat.ManaRegenerationRatePct]>=1
+
+ModsInfo.ItemMods.Any(Name.Contains("Resist"))
+
+ModsInfo.ItemMods.Any(Name.Contains("EnergyShield"))
+
+ModsInfo.ItemMods.Any(Name.Contains("IncreasedLife")) 
+
+(ClassName == 'Body Armour" || ClassName == "Amulet") && ModsInfo.ItemMods.Any(Name.Contains("Spirit"))
+
+ModsInfo.ItemMods.Any(Name.Contains("ItemFoundRarityIncrease"))
+
+ClassName == "Gloves" && ModsInfo.ItemMods.Any(Name.Contains("IncreasedAttackSpeed")) 
+
+ModsInfo.ItemMods.Any(Name.Contains("SkillGemLevel")) 
+
+ClassName == 'Warstaff' && ModsInfo.ItemMods.Any(Name.Contains("PhysicalDamage")) 
+
+(ClassName == 'Warstaff' || ClassName == "Gloves" || ClassName == "Ring") && ModsInfo.ItemMods.Any(Name.Contains("ColdDamage")) 
+
+(ClassName == 'Warstaff' || ClassName == "Gloves" || ClassName == "Ring") && ModsInfo.ItemMods.Any(Name.Contains("LightningDamage")) 
+
+ModsInfo.ItemMods.Any(Name.Contains("AllAttributes"))
+
+ModsInfo.ItemMods.Any(Name.Contains("Strength"))
+
+ModsInfo.ItemMods.Any(Name.Contains("Dexterity"))

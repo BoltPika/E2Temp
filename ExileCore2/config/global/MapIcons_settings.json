@@ -1,0 +1,529 @@
+{
+  "IconListUpdatePeriod": 50,
+  "RunEveryXTicks": 5,
+  "RealtimeIconSettings": false,
+  "DrawOnMinimap": true,
+  "DrawCachedEntities": true,
+  "DrawOverLargePanels": true,
+  "DrawOverFullscreenPanels": true,
+  "IgnoredEntitiesHeight": 100,
+  "DrawSetingsOpen": false,
+  "IgnoredEntitesOpen": false,
+  "CustomIconsOpen": false,
+  "NPCIconsOpen": false,
+  "MiscIconsOpen": false,
+  "ChestIconsOpen": false,
+  "StrongboxIconsOpen": false,
+  "RangeIconsOpen": false,
+  "Debug": false,
+  "DebugMiscIcon": false,
+  "DebugIngameIcon": false,
+  "DebugChestIcon": false,
+  "DebugNPCIcon": false,
+  "DebugCustomIcon": false,
+  "AreaTransition_State": 1,
+  "AreaTransition_DrawText": false,
+  "Breach_State": 1,
+  "Breach_DrawText": false,
+  "Checkpoint_State": 1,
+  "Checkpoint_DrawText": false,
+  "QuestObject_State": 2,
+  "QuestObject_DrawText": false,
+  "IngameNPC_State": 1,
+  "IngameNPC_DrawText": false,
+  "Ritual_State": 1,
+  "Ritual_DrawText": false,
+  "Shrine_State": 1,
+  "Shrine_DrawText": true,
+  "Waypoint_State": 0,
+  "Waypoint_DrawText": false,
+  "IngameUncategorized_State": 0,
+  "IngameUncategorized_DrawText": false,
+  "WhiteMonster_Draw": true,
+  "WhiteMonster_DrawText": false,
+  "WhiteMonster_Size": 32,
+  "WhiteMonster_Index": 0,
+  "WhiteMonster_Tint": {
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "WhiteMonster_HiddenTint": {
+    "X": 1.0,
+    "Y": 0.7254902,
+    "Z": 0.7254902,
+    "W": 1.0
+  },
+  "MagicMonster_Draw": true,
+  "MagicMonster_DrawText": false,
+  "MagicMonster_Size": 32,
+  "MagicMonster_Index": 1,
+  "MagicMonster_Tint": {
+    "X": 0.0,
+    "Y": 0.57254905,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "MagicMonster_HiddenTint": {
+    "X": 0.7254902,
+    "Y": 0.88050747,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "RareMonster_Draw": true,
+  "RareMonster_DrawText": false,
+  "RareMonster_Size": 40,
+  "RareMonster_Index": 2,
+  "RareMonster_Tint": {
+    "X": 1.0,
+    "Y": 0.8235294,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "RareMonster_HiddenTint": {
+    "X": 1.0,
+    "Y": 0.9515571,
+    "Z": 0.7254902,
+    "W": 1.0
+  },
+  "UniqueMonster_Draw": true,
+  "UniqueMonster_DrawText": false,
+  "UniqueMonster_Size": 40,
+  "UniqueMonster_Index": 3,
+  "UniqueMonster_Tint": {
+    "X": 1.0,
+    "Y": 0.44155842,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "UniqueMonster_HiddenTint": {
+    "X": 1.0,
+    "Y": 0.82652825,
+    "Z": 0.6862745,
+    "W": 1.0
+  },
+  "Spirit_Draw": true,
+  "Spirit_DrawText": false,
+  "Spirit_Size": 32,
+  "Spirit_Index": 3,
+  "Spirit_Tint": {
+    "X": 0.8311689,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "Spirit_HiddenTint": {
+    "X": 0.9474408,
+    "Y": 1.0,
+    "Z": 0.6883117,
+    "W": 1.0
+  },
+  "FracturingMirror_Draw": true,
+  "FracturingMirror_DrawText": false,
+  "FracturingMirror_Size": 32,
+  "FracturingMirror_Index": 129,
+  "FracturingMirror_Tint": {
+    "X": 0.0,
+    "Y": 0.9411764,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "FracturingMirror_HiddenTint": {
+    "X": 0.0,
+    "Y": 0.9411765,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "Minion_Draw": false,
+  "Minion_DrawText": false,
+  "Minion_Size": 32,
+  "Minion_Index": 0,
+  "Minion_Tint": {
+    "X": 0.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "Minion_HiddenTint": {
+    "X": 0.6862745,
+    "Y": 1.0,
+    "Z": 0.6862745,
+    "W": 1.0
+  },
+  "NPC_Draw": true,
+  "NPC_DrawText": true,
+  "NPC_Size": 32,
+  "NPC_Index": 161,
+  "NPC_Tint": {
+    "X": 0.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "NPC_HiddenTint": {
+    "X": 0.6862745,
+    "Y": 1.0,
+    "Z": 0.6862745,
+    "W": 1.0
+  },
+  "VolatileCore_Draw": true,
+  "VolatileCore_DrawText": false,
+  "VolatileCore_Size": 32,
+  "VolatileCore_Index": 18,
+  "VolatileCore_Tint": {
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.38961077,
+    "W": 1.0
+  },
+  "VolatileCore_HiddenTint": {
+    "X": 1.0,
+    "Y": 0.6862745,
+    "Z": 0.8043829,
+    "W": 1.0
+  },
+  "LocalPlayer_Draw": true,
+  "LocalPlayer_DrawText": false,
+  "LocalPlayer_Size": 32,
+  "LocalPlayer_Index": 129,
+  "LocalPlayer_Tint": {
+    "X": 0.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "LocalPlayer_HiddenTint": {
+    "X": 0.6862745,
+    "Y": 1.0,
+    "Z": 0.6862745,
+    "W": 1.0
+  },
+  "Player_Draw": true,
+  "Player_DrawText": false,
+  "Player_Size": 32,
+  "Player_Index": 17,
+  "Player_Tint": {
+    "X": 0.0,
+    "Y": 1.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "Player_HiddenTint": {
+    "X": 0.6862745,
+    "Y": 1.0,
+    "Z": 0.6862745,
+    "W": 1.0
+  },
+  "SanctumMote_Draw": true,
+  "SanctumMote_DrawText": false,
+  "SanctumMote_Size": 32,
+  "SanctumMote_Index": 0,
+  "SanctumMote_Tint": {
+    "X": 0.49783552,
+    "Y": 0.95434874,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "SanctumMote_HiddenTint": {
+    "X": 0.83116883,
+    "Y": 0.98417217,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "NormalChest_Draw": false,
+  "NormalChest_DrawText": false,
+  "NormalChest_Size": 32,
+  "NormalChest_Index": 240,
+  "NormalChest_Tint": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "MagicChest_Draw": true,
+  "MagicChest_DrawText": false,
+  "MagicChest_Size": 32,
+  "MagicChest_Index": 241,
+  "MagicChest_Tint": {
+    "X": 0.0,
+    "Y": 0.57254905,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "RareChest_Draw": true,
+  "RareChest_DrawText": false,
+  "RareChest_Size": 32,
+  "RareChest_Index": 241,
+  "RareChest_Tint": {
+    "X": 1.0,
+    "Y": 0.8235294,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "UniqueChest_Draw": true,
+  "UniqueChest_DrawText": false,
+  "UniqueChest_Size": 32,
+  "UniqueChest_Index": 241,
+  "UniqueChest_Tint": {
+    "X": 1.0,
+    "Y": 0.82652825,
+    "Z": 0.6862745,
+    "W": 1.0
+  },
+  "ExpeditionNormalChest_Draw": true,
+  "ExpeditionNormalChest_DrawText": false,
+  "ExpeditionNormalChest_Size": 32,
+  "ExpeditionNormalChest_Index": 241,
+  "ExpeditionNormalChest_Tint": {
+    "X": 1.0,
+    "Y": 1.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "ExpeditionMagicChest_Draw": true,
+  "ExpeditionMagicChest_DrawText": false,
+  "ExpeditionMagicChest_Size": 32,
+  "ExpeditionMagicChest_Index": 241,
+  "ExpeditionMagicChest_Tint": {
+    "X": 0.0,
+    "Y": 0.57254905,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "ExpeditionRareChest_Draw": true,
+  "ExpeditionRareChest_DrawText": false,
+  "ExpeditionRareChest_Size": 32,
+  "ExpeditionRareChest_Index": 241,
+  "ExpeditionRareChest_Tint": {
+    "X": 1.0,
+    "Y": 0.8235294,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "BreachChest_Draw": true,
+  "BreachChest_DrawText": false,
+  "BreachChest_Size": 32,
+  "BreachChest_Index": 129,
+  "BreachChest_Tint": {
+    "X": 0.67532444,
+    "Y": 0.0,
+    "Z": 1.0,
+    "W": 1.0
+  },
+  "BreachChestBoss_Draw": true,
+  "BreachChestBoss_DrawText": false,
+  "BreachChestBoss_Size": 32,
+  "BreachChestBoss_Index": 130,
+  "BreachChestBoss_Tint": {
+    "X": 0.96862745,
+    "Y": 0.0,
+    "Z": 0.93088883,
+    "W": 1.0
+  },
+  "SanctumChest_Draw": true,
+  "SanctumChest_DrawText": false,
+  "SanctumChest_Size": 32,
+  "SanctumChest_Index": 241,
+  "SanctumChest_Tint": {
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "UnknownStrongbox_Draw": true,
+  "UnknownStrongbox_DrawText": false,
+  "UnknownStrongbox_Size": 32,
+  "UnknownStrongbox_Index": 241,
+  "UnknownStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.0,
+    "Z": 0.80519485,
+    "W": 1.0
+  },
+  "ArcanistStrongbox_Draw": true,
+  "ArcanistStrongbox_DrawText": false,
+  "ArcanistStrongbox_Size": 32,
+  "ArcanistStrongbox_Index": 241,
+  "ArcanistStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ArmourerStrongbox_Draw": true,
+  "ArmourerStrongbox_DrawText": false,
+  "ArmourerStrongbox_Size": 32,
+  "ArmourerStrongbox_Index": 241,
+  "ArmourerStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "BlacksmithStrongbox_Draw": true,
+  "BlacksmithStrongbox_DrawText": false,
+  "BlacksmithStrongbox_Size": 32,
+  "BlacksmithStrongbox_Index": 241,
+  "BlacksmithStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ArtisanStrongbox_Draw": true,
+  "ArtisanStrongbox_DrawText": false,
+  "ArtisanStrongbox_Size": 32,
+  "ArtisanStrongbox_Index": 241,
+  "ArtisanStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "CartographerStrongbox_Draw": true,
+  "CartographerStrongbox_DrawText": false,
+  "CartographerStrongbox_Size": 32,
+  "CartographerStrongbox_Index": 241,
+  "CartographerStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ChemistStrongbox_Draw": true,
+  "ChemistStrongbox_DrawText": false,
+  "ChemistStrongbox_Size": 32,
+  "ChemistStrongbox_Index": 241,
+  "ChemistStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "GemcutterStrongbox_Draw": true,
+  "GemcutterStrongbox_DrawText": false,
+  "GemcutterStrongbox_Size": 32,
+  "GemcutterStrongbox_Index": 241,
+  "GemcutterStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "JewellerStrongbox_Draw": true,
+  "JewellerStrongbox_DrawText": false,
+  "JewellerStrongbox_Size": 32,
+  "JewellerStrongbox_Index": 241,
+  "JewellerStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "LargeStrongbox_Draw": true,
+  "LargeStrongbox_DrawText": false,
+  "LargeStrongbox_Size": 32,
+  "LargeStrongbox_Index": 241,
+  "LargeStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "OrnateStrongbox_Draw": true,
+  "OrnateStrongbox_DrawText": false,
+  "OrnateStrongbox_Size": 32,
+  "OrnateStrongbox_Index": 241,
+  "OrnateStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "Strongbox_Draw": true,
+  "Strongbox_DrawText": false,
+  "Strongbox_Size": 32,
+  "Strongbox_Index": 241,
+  "Strongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "DivinerStrongbox_Draw": true,
+  "DivinerStrongbox_DrawText": false,
+  "DivinerStrongbox_Size": 32,
+  "DivinerStrongbox_Index": 241,
+  "DivinerStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "OperativeStrongbox_Draw": true,
+  "OperativeStrongbox_DrawText": false,
+  "OperativeStrongbox_Size": 32,
+  "OperativeStrongbox_Index": 241,
+  "OperativeStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ArcaneStrongbox_Draw": true,
+  "ArcaneStrongbox_DrawText": false,
+  "ArcaneStrongbox_Size": 32,
+  "ArcaneStrongbox_Index": 241,
+  "ArcaneStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ResearcherStrongbox_Draw": true,
+  "ResearcherStrongbox_DrawText": false,
+  "ResearcherStrongbox_Size": 32,
+  "ResearcherStrongbox_Index": 241,
+  "ResearcherStrongbox_Tint": {
+    "X": 1.0,
+    "Y": 0.4705882,
+    "Z": 0.0,
+    "W": 1.0
+  },
+  "ignoredEntities": "# Random Ignores\r\nMetadata/Monsters/InvisibleFire/InvisibleSandstorm_\r\nMetadata/Monsters/InvisibleFire/InvisibleFrostnado\r\nMetadata/Monsters/InvisibleFire/InvisibleFireAfflictionDemonColdDegen\r\nMetadata/Monsters/InvisibleFire/InvisibleFireAfflictionDemonColdDegenUnique\r\nMetadata/Monsters/InvisibleFire/InvisibleFireAfflictionCorpseDegen\r\nMetadata/Monsters/InvisibleFire/InvisibleFireEyrieHurricane\r\nMetadata/Monsters/InvisibleFire/InvisibleIonCannonFrost\r\nMetadata/Monsters/InvisibleFire/AfflictionBossFinalDeathZone\r\nMetadata/Monsters/InvisibleFire/InvisibleFireDoedreSewers\r\nMetadata/Monsters/InvisibleFire/InvisibleFireDelveFlameTornadoSpiked\r\nMetadata/Monsters/InvisibleFire/InvisibleHolyCannon\r\nMetadata/Monsters/InvisibleCurse/InvisibleFrostbiteStationary\r\nMetadata/Monsters/InvisibleCurse/InvisibleConductivityStationary\r\nMetadata/Monsters/InvisibleCurse/InvisibleEnfeeble\r\nMetadata/Monsters/InvisibleAura/InvisibleWrathStationary\r\n\r\n# Metadata/Monsters/Labyrinth/GoddessOfJustice\r\n# Metadata/Monsters/Labyrinth/GoddessOfJusticeMapBoss\r\nMetadata/Monsters/Frog/FrogGod/SilverOrb\r\nMetadata/Monsters/Frog/FrogGod/SilverPool\r\nMetadata/Monsters/LunarisSolaris/SolarisCelestialFormAmbushUniqueMap\r\nMetadata/Monsters/Invisible/MaligaroSoulInvisibleBladeVortex\r\nMetadata/Monsters/Daemon\r\nMetadata/Monsters/Daemon/MaligaroBladeVortexDaemon\r\nMetadata/Monsters/Daemon/SilverPoolChillDaemon\r\nMetadata/Monsters/AvariusCasticus/AvariusCasticusStatue\r\nMetadata/Monsters/Maligaro/MaligaroDesecrate\r\n\r\n# Ritual\r\nMetadata/Monsters/LeagueRitual/FireMeteorDaemon\r\nMetadata/Monsters/LeagueRitual/GenericSpeedDaemon\r\nMetadata/Monsters/LeagueRitual/ColdRotatingBeamDaemon\r\nMetadata/Monsters/LeagueRitual/ColdRotatingBeamDaemonUber\r\nMetadata/Monsters/LeagueRitual/GenericEnergyShieldDaemon\r\nMetadata/Monsters/LeagueRitual/GenericMassiveDaemon\r\nMetadata/Monsters/LeagueRitual/ChaosGreenVinesDaemon_\r\nMetadata/Monsters/LeagueRitual/ChaosSoulrendPortalDaemon\r\nMetadata/Monsters/LeagueRitual/VaalAtziriDaemon\r\nMetadata/Monsters/LeagueRitual/LightningPylonDaemon",
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "CustomIconSettingsList": [
+    {
+      "Path": "Metadata/Terrain/Gallows/Act1/1_5/Objects/QuestChestBase",
+      "Setting_Draw": true,
+      "Setting_DrawText": true,
+      "Setting_Size": 32,
+      "Setting_Index": 161,
+      "Setting_Tint": {
+        "X": 1.0,
+        "Y": 0.949774,
+        "Z": 0.23115575,
+        "W": 1.0
+      },
+      "Setting_HiddenTint": {
+        "X": 0.5,
+        "Y": 0.5,
+        "Z": 0.5,
+        "W": 1.0
+      },
+      "Setting_IsAlive": false,
+      "Setting_IsOpened": false
+    }
+  ]
+}

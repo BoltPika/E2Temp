@@ -1,0 +1,3867 @@
+{
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Features": {
+    "AtlasRange": {
+      "Value": 20000
+    },
+    "UseAtlasRange": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ProcessVisitedNodes": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ProcessUnlockedNodes": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ProcessLockedNodes": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ProcessHiddenNodes": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DrawVisitedNodeConnections": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DrawHiddenNodeConnections": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DrawLines": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "WaypointsUseAtlasRange": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DrawLineLabels": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "MissingTabletTowerContentRing": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DebugMode": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  },
+  "Keybinds": {
+    "RefreshMapCacheHotkey": {
+      "Value": 36
+    },
+    "AddWaypointHotkey": {
+      "Value": 45
+    },
+    "DeleteWaypointHotkey": {
+      "Value": 46
+    },
+    "ToggleWaypointPanelHotkey": {
+      "Value": 35
+    },
+    "ShowTowerRangeHotkey": {
+      "Value": 33
+    },
+    "ToggleVisitedNodesHotkey": {
+      "Value": 124
+    },
+    "ToggleUnlockedNodesHotkey": {
+      "Value": 124
+    },
+    "ToggleLockedNodesHotkey": {
+      "Value": 124
+    },
+    "ToggleHiddenNodesHotkey": {
+      "Value": 124
+    },
+    "DebugKey": {
+      "Value": 124
+    },
+    "UpdateMapsKey": {
+      "Value": 124
+    }
+  },
+  "Graphics": {
+    "RenderNTicks": {
+      "Value": 5
+    },
+    "MapCacheRefreshRate": {
+      "Value": 5
+    },
+    "FontColor": "ffffffff",
+    "BackgroundColor": "000000b1",
+    "LabelInterpolationScale": {
+      "Value": 0.5
+    },
+    "LineColor": "ffdedec8",
+    "MapLineWidth": {
+      "Value": 3.0
+    },
+    "VisitedLineColor": "ffffff50",
+    "UnlockedLineColor": "5aff5aaa",
+    "LockedLineColor": "ff5a5aaa",
+    "DrawGradientLines": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "RingWidth": {
+      "Value": 5.0
+    },
+    "RingRadius": {
+      "Value": 1.0
+    },
+    "NodeRadius": {
+      "Value": 1.5
+    },
+    "ShowPaths": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "PathLineColor": "ff8c00ff",
+    "WaypointLineWidth": {
+      "Value": 3.0
+    }
+  },
+  "MapTypes": {
+    "HighlightMapNodes": true,
+    "ColorNodesByWeight": true,
+    "DrawWeightOnMap": false,
+    "ShowMapNames": true,
+    "UseColorsForMapNames": true,
+    "UseWeightColorsForMapNames": true,
+    "ShowMapNamesOnUnlockedNodes": false,
+    "ShowMapNamesOnLockedNodes": true,
+    "ShowMapNamesOnHiddenNodes": true,
+    "GoodNodeColor": "200, 50, 255, 50",
+    "BadNodeColor": "200, 255, 50, 50",
+    "Maps": {
+      "MapAzmerianRanges": {
+        "Name": "阿茲麥里山脈",
+        "ID": "",
+        "IDs": [
+          "MapAzmerianRanges_NoBoss",
+          "MapAzmerianRanges"
+        ],
+        "ShortestId": "MapAzmerianRanges",
+        "Biomes": [
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUniqueMegalith": {
+        "Name": "艾茲麥巨石",
+        "ID": "",
+        "IDs": [
+          "MapUniqueMegalith"
+        ],
+        "ShortestId": "MapUniqueMegalith",
+        "Biomes": [
+          "Unique",
+          "森林",
+          "草地",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "Bastille": {
+        "Name": "堡壘",
+        "ID": "",
+        "IDs": [
+          "MapBastille",
+          "MapBastille_NoBoss"
+        ],
+        "ShortestId": "MapBastille",
+        "Biomes": [
+          "山脉",
+          "草地",
+          "沙漠"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapFortress": {
+        "Name": "堡壘",
+        "ID": "",
+        "IDs": [
+          "MapFortress",
+          "MapFortress_NoBoss"
+        ],
+        "ShortestId": "MapFortress",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapBastion": {
+        "Name": "堡壘",
+        "ID": "",
+        "IDs": [
+          "MapBastion",
+          "MapBastion_NoBoss"
+        ],
+        "ShortestId": "MapBastion",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapRefuge": {
+        "Name": "避難所",
+        "ID": "",
+        "IDs": [
+          "MapRefuge",
+          "MapRefuge_NoBoss"
+        ],
+        "ShortestId": "MapRefuge",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapFrozenFalls": {
+        "Name": "冰凍瀑布",
+        "ID": "",
+        "IDs": [
+          "MapFrozenFalls",
+          "MapFrozenFalls_NoBoss"
+        ],
+        "ShortestId": "MapFrozenFalls",
+        "Biomes": [
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapRazedFields": {
+        "Name": "殘破原野",
+        "ID": "",
+        "IDs": [
+          "MapRazedFields",
+          "MapRazedFields_NoBoss"
+        ],
+        "ShortestId": "MapRazedFields",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHideoutFarmlands_Claimable": {
+        "Name": "藏身處：農地",
+        "ID": "",
+        "IDs": [
+          "MapHideoutFarmlands_Claimable",
+          "MapHideoutFarmlands_Claimable_NoBoss"
+        ],
+        "ShortestId": "MapHideoutFarmlands_Claimable",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHideoutPrison_Claimable": {
+        "Name": "藏身處：囚犯",
+        "ID": "",
+        "IDs": [
+          "MapHideoutPrison_Claimable",
+          "MapHideoutPrison_Claimable_NoBoss"
+        ],
+        "ShortestId": "MapHideoutPrison_Claimable",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHideoutShrine_Claimable": {
+        "Name": "藏身處：神殿",
+        "ID": "",
+        "IDs": [
+          "MapHideoutShrine_Claimable"
+        ],
+        "ShortestId": "MapHideoutShrine_Claimable",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHideoutLimestone_Claimable": {
+        "Name": "藏身處：石灰岩",
+        "ID": "",
+        "IDs": [
+          "MapHideoutLimestone_Claimable"
+        ],
+        "ShortestId": "MapHideoutLimestone_Claimable",
+        "Biomes": [
+          "水域",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHideoutFelled_Claimable": {
+        "Name": "藏身處：殞落",
+        "ID": "",
+        "IDs": [
+          "MapHideoutFelled_Claimable"
+        ],
+        "ShortestId": "MapHideoutFelled_Claimable",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHideoutCanal_Claimable": {
+        "Name": "藏身處：運河",
+        "ID": "",
+        "IDs": [
+          "MapHideoutCanal_Claimable"
+        ],
+        "ShortestId": "MapHideoutCanal_Claimable",
+        "Biomes": [
+          "草地",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUniqueMerchant03": {
+        "Name": "禪意時刻",
+        "ID": "",
+        "IDs": [
+          "MapUniqueMerchant03_Raft",
+          "MapUniqueMerchant03_Beach",
+          "MapUniqueMerchant03_Tropical"
+        ],
+        "ShortestId": "MapUniqueMerchant03",
+        "Biomes": [
+          "Unique",
+          "水域",
+          "森林",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapHive": {
+        "Name": "巢穴",
+        "ID": "",
+        "IDs": [
+          "MapHive",
+          "MapHive_NoBoss"
+        ],
+        "ShortestId": "MapHive",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapSinkhole": {
+        "Name": "沉洞",
+        "ID": "",
+        "IDs": [
+          "MapSinkhole",
+          "MapSinkhole_NoBoss"
+        ],
+        "ShortestId": "MapSinkhole",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSwampTower": {
+        "Name": "沉溺尖塔",
+        "ID": "",
+        "IDs": [
+          "MapSwampTower",
+          "MapSwampTower_NoBoss"
+        ],
+        "ShortestId": "MapSwampTower",
+        "Biomes": [
+          "高塔",
+          "沼澤",
+          "VaalCity"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 255, 253, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapLoftySummit": {
+        "Name": "崇高之巔",
+        "ID": "",
+        "IDs": [
+          "MapLoftySummit_NoBoss",
+          "MapLoftySummit"
+        ],
+        "ShortestId": "MapLoftySummit",
+        "Biomes": [
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapWillow": {
+        "Name": "垂柳",
+        "ID": "",
+        "IDs": [
+          "MapWillow_NoBoss",
+          "MapWillow"
+        ],
+        "ShortestId": "MapWillow",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapUniqueUntaintedParadise": {
+        "Name": "純淨樂園",
+        "ID": "",
+        "IDs": [
+          "MapUniqueUntaintedParadise"
+        ],
+        "ShortestId": "MapUniqueUntaintedParadise",
+        "Biomes": [
+          "Unique",
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapUniqueWildwood": {
+        "Name": "翠绿森林",
+        "ID": "",
+        "IDs": [
+          "MapUniqueWildwood"
+        ],
+        "ShortestId": "MapUniqueWildwood",
+        "Biomes": [
+          "Unique",
+          "森林",
+          "沼澤",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapUberBoss_JadeCitadel": {
+        "Name": "翠玉群島",
+        "ID": "",
+        "IDs": [
+          "MapUberBoss_JadeCitadel"
+        ],
+        "ShortestId": "MapUberBoss_JadeCitadel",
+        "Biomes": [
+          "水域",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSavanna": {
+        "Name": "大草原",
+        "ID": "",
+        "IDs": [
+          "MapSavanna_NoBoss",
+          "MapSavanna"
+        ],
+        "ShortestId": "MapSavanna",
+        "Biomes": [
+          "草地",
+          "沙漠",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapBoulevard": {
+        "Name": "大道",
+        "ID": "",
+        "IDs": [
+          "MapBoulevard",
+          "MapBoulevard_NoBoss"
+        ],
+        "ShortestId": "MapBoulevard",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUniqueLake": {
+        "Name": "獨特湖泊",
+        "ID": "",
+        "IDs": [
+          "MapUniqueLake"
+        ],
+        "ShortestId": "MapUniqueLake",
+        "Biomes": [
+          "Unique",
+          "水域",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapForge": {
+        "Name": "鍛造",
+        "ID": "",
+        "IDs": [
+          "MapForge",
+          "MapForge_NoBoss"
+        ],
+        "ShortestId": "MapForge",
+        "Biomes": [
+          "山脉",
+          "沙漠",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapCrimsonShores": {
+        "Name": "緋紅海岸",
+        "ID": "",
+        "IDs": [
+          "MapCrimsonShores_NoBoss",
+          "MapCrimsonShores"
+        ],
+        "ShortestId": "MapCrimsonShores",
+        "Biomes": [
+          "水域",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapFlotsam": {
+        "Name": "廢料堆",
+        "ID": "",
+        "IDs": [
+          "MapFlotsam",
+          "MapFlotsam_NoBoss"
+        ],
+        "ShortestId": "MapFlotsam",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapDerelictMansion": {
+        "Name": "廢棄宅邸",
+        "ID": "",
+        "IDs": [
+          "MapDerelictMansion_NoBoss"
+        ],
+        "ShortestId": "MapDerelictMansion",
+        "Biomes": [
+          "草地",
+          "森林",
+          "沙漠"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapVaalVault": {
+        "Name": "封印寶庫",
+        "ID": "",
+        "IDs": [
+          "MapVaalVault",
+          "MapVaalVault_NoBoss"
+        ],
+        "ShortestId": "MapVaalVault",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSlick": {
+        "Name": "浮油",
+        "ID": "",
+        "IDs": [
+          "MapSlick",
+          "MapSlick_NoBoss"
+        ],
+        "ShortestId": "MapSlick",
+        "Biomes": [
+          "山脉",
+          "沙漠",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapDecay": {
+        "Name": "腐蝕",
+        "ID": "",
+        "IDs": [
+          "MapDecay_NoBoss",
+          "MapDecay"
+        ],
+        "ShortestId": "MapDecay",
+        "Biomes": [
+          "森林",
+          "森林",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapSteppe": {
+        "Name": "乾草原",
+        "ID": "",
+        "IDs": [
+          "MapSteppe",
+          "MapSteppe_NoBoss"
+        ],
+        "ShortestId": "MapSteppe",
+        "Biomes": [
+          "草地",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapArroyo": {
+        "Name": "乾涸河床",
+        "ID": "",
+        "IDs": [
+          "MapArroyo",
+          "MapArroyo_NoBoss"
+        ],
+        "ShortestId": "MapArroyo",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapDryPassage": {
+        "Name": "乾燥通道",
+        "ID": "",
+        "IDs": [
+          "MapDryPassage",
+          "MapDryPassage_NoBoss"
+        ],
+        "ShortestId": "MapDryPassage",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUberBoss_IronCitadel": {
+        "Name": "鋼鐵城塞",
+        "ID": "",
+        "IDs": [
+          "MapUberBoss_IronCitadel"
+        ],
+        "ShortestId": "MapUberBoss_IronCitadel",
+        "Biomes": [
+          "UberBoss",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "47, 49, 169",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapPort": {
+        "Name": "港口",
+        "ID": "",
+        "IDs": [
+          "MapPort",
+          "MapPort_NoBoss"
+        ],
+        "ShortestId": "MapPort",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "G_Endgame_Town": {
+        "Name": "高地神塔庇護所",
+        "ID": "",
+        "IDs": [
+          "G_Endgame_Town"
+        ],
+        "ShortestId": "G_Endgame_Town",
+        "Biomes": [],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapAlpineRidge": {
+        "Name": "高山山脊",
+        "ID": "",
+        "IDs": [
+          "MapAlpineRidge",
+          "MapAlpineRidge_NoBoss"
+        ],
+        "ShortestId": "MapAlpineRidge",
+        "Biomes": [
+          "高塔",
+          "埃佐米特城市",
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 255, 253, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "GothicCity": {
+        "Name": "哥特城市",
+        "ID": "",
+        "IDs": [],
+        "ShortestId": "GothicCity",
+        "Biomes": [
+          "草地",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapMarrow": {
+        "Name": "骨髓",
+        "ID": "",
+        "IDs": [
+          "MapMarrow",
+          "MapMarrow_NoBoss"
+        ],
+        "ShortestId": "MapMarrow",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapOvergrown": {
+        "Name": "過度生長",
+        "ID": "",
+        "IDs": [
+          "MapOvergrown",
+          "MapOvergrown_NoBoss"
+        ],
+        "ShortestId": "MapOvergrown",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHeadland": {
+        "Name": "海角",
+        "ID": "",
+        "IDs": [
+          "MapHeadland",
+          "MapHeadland_NoBoss"
+        ],
+        "ShortestId": "MapHeadland",
+        "Biomes": [
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapIceCave": {
+        "Name": "寒冰洞穴",
+        "ID": "",
+        "IDs": [
+          "MapIceCave",
+          "MapIceCave_NoBoss"
+        ],
+        "ShortestId": "MapIceCave",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUniqueMerchant04_PirateShip": {
+        "Name": "航路",
+        "ID": "",
+        "IDs": [
+          "MapUniqueMerchant04_PirateShip",
+          "MapUniqueMerchant04_PirateShip_NoBoss"
+        ],
+        "ShortestId": "MapUniqueMerchant04_PirateShip",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapRiverhold": {
+        "Name": "河流堡",
+        "ID": "",
+        "IDs": [
+          "MapRiverhold",
+          "MapRiverhold_NoBoss"
+        ],
+        "ShortestId": "MapRiverhold",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapRiverside": {
+        "Name": "河畔",
+        "ID": "",
+        "IDs": [
+          "MapRiverside",
+          "MapRiverside_NoBoss"
+        ],
+        "ShortestId": "MapRiverside",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapOrnateChambers": {
+        "Name": "華美密室",
+        "ID": "",
+        "IDs": [
+          "MapOrnateChambers",
+          "MapOrnateChambers_NoBoss"
+        ],
+        "ShortestId": "MapOrnateChambers",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapOasis": {
+        "Name": "幻景綠洲",
+        "ID": "",
+        "IDs": [
+          "MapOasis",
+          "MapOasis_NoBoss"
+        ],
+        "ShortestId": "MapOasis",
+        "Biomes": [
+          "沙漠",
+          "法里顿城市",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapCaldera": {
+        "Name": "火山口",
+        "ID": "",
+        "IDs": [
+          "MapCaldera",
+          "MapCaldera_NoBoss"
+        ],
+        "ShortestId": "MapCaldera",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUniqueFreight_": {
+        "Name": "貨物",
+        "ID": "",
+        "IDs": [
+          "MapUniqueFreight_",
+          "MapUniqueFreight__NoBoss"
+        ],
+        "ShortestId": "MapUniqueFreight_",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapPenitentiary": {
+        "Name": "監獄",
+        "ID": "",
+        "IDs": [
+          "MapPenitentiary_NoBoss",
+          "MapPenitentiary"
+        ],
+        "ShortestId": "MapPenitentiary",
+        "Biomes": [
+          "草地",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapCrypt": {
+        "Name": "靜謐陵墓",
+        "ID": "",
+        "IDs": [
+          "MapCrypt",
+          "MapCrypt_NoBoss"
+        ],
+        "ShortestId": "MapCrypt",
+        "Biomes": [
+          "山脉",
+          "草地",
+          "沙漠"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapBluff": {
+        "Name": "絕壁",
+        "ID": "",
+        "IDs": [
+          "MapBluff",
+          "MapBluff_NoBoss"
+        ],
+        "ShortestId": "MapBluff",
+        "Biomes": [
+          "高塔",
+          "草地"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 255, 253, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapKarst": {
+        "Name": "喀斯特",
+        "ID": "",
+        "IDs": [
+          "MapKarst",
+          "MapKarst_NoBoss"
+        ],
+        "ShortestId": "MapKarst",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUniqueVault": {
+        "Name": "卡瑪薩秘寶庫",
+        "ID": "",
+        "IDs": [
+          "MapUniqueVault"
+        ],
+        "ShortestId": "MapUniqueVault",
+        "Biomes": [
+          "Unique",
+          "VaalCity",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapMineshaft": {
+        "Name": "礦井",
+        "ID": "",
+        "IDs": [
+          "MapMineshaft",
+          "MapMineshaft_NoBoss"
+        ],
+        "ShortestId": "MapMineshaft",
+        "Biomes": [
+          "法里顿城市",
+          "山脉",
+          "沙漠",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "Inferno": {
+        "Name": "煉獄",
+        "ID": "",
+        "IDs": [
+          "MapInferno",
+          "MapInferno_NoBoss"
+        ],
+        "ShortestId": "MapInferno",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapChasm": {
+        "Name": "裂谷",
+        "ID": "",
+        "IDs": [
+          "MapChasm",
+          "MapChasm_NoBoss"
+        ],
+        "ShortestId": "MapChasm",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSulphuricCaverns": {
+        "Name": "硫磺洞穴",
+        "ID": "",
+        "IDs": [
+          "MapSulphuricCaverns",
+          "MapSulphuricCaverns_NoBoss"
+        ],
+        "ShortestId": "MapSulphuricCaverns",
+        "Biomes": [
+          "山脉",
+          "沼澤",
+          "沙漠"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapRugosa": {
+        "Name": "盧戈薩",
+        "ID": "",
+        "IDs": [
+          "MapRugosa",
+          "MapRugosa_NoBoss"
+        ],
+        "ShortestId": "MapRugosa",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapBurialBog": {
+        "Name": "埋葬沼澤",
+        "ID": "",
+        "IDs": [
+          "MapBurialBog_NoBoss",
+          "MapBurialBog"
+        ],
+        "ShortestId": "MapBurialBog",
+        "Biomes": [
+          "沼澤",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapNecropolis": {
+        "Name": "魔影墓場",
+        "ID": "",
+        "IDs": [
+          "MapNecropolis_NoBoss",
+          "MapNecropolis"
+        ],
+        "ShortestId": "MapNecropolis",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapWoodland": {
+        "Name": "木林",
+        "ID": "",
+        "IDs": [
+          "MapWoodland_NoBoss",
+          "MapWoodland"
+        ],
+        "ShortestId": "MapWoodland",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapEpitaph": {
+        "Name": "墓誌銘",
+        "ID": "",
+        "IDs": [
+          "MapEpitaph",
+          "MapEpitaph_NoBoss"
+        ],
+        "ShortestId": "MapEpitaph",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapMire": {
+        "Name": "泥沼",
+        "ID": "",
+        "IDs": [
+          "MapMire",
+          "MapMire_NoBoss"
+        ],
+        "ShortestId": "MapMire",
+        "Biomes": [
+          "沼澤",
+          "森林",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapUniqueCastaway": {
+        "Name": "漂流者之所",
+        "ID": "",
+        "IDs": [
+          "MapUniqueCastaway"
+        ],
+        "ShortestId": "MapUniqueCastaway",
+        "Biomes": [
+          "Unique",
+          "水域",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapMesa": {
+        "Name": "平頂荒漠",
+        "ID": "",
+        "IDs": [
+          "MapMesa",
+          "MapMesa_NoBoss"
+        ],
+        "ShortestId": "MapMesa",
+        "Biomes": [
+          "高塔",
+          "沙漠"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 255, 253, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapRupture": {
+        "Name": "破裂",
+        "ID": "",
+        "IDs": [
+          "MapRupture",
+          "MapRupture_NoBoss"
+        ],
+        "ShortestId": "MapRupture",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSevenWaters": {
+        "Name": "七水之地",
+        "ID": "",
+        "IDs": [
+          "MapSevenWaters",
+          "MapSevenWaters_NoBoss"
+        ],
+        "ShortestId": "MapSevenWaters",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapPerch": {
+        "Name": "棲息地",
+        "ID": "",
+        "IDs": [
+          "MapPerch",
+          "MapPerch_NoBoss"
+        ],
+        "ShortestId": "MapPerch",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapQimar": {
+        "Name": "奇瑪爾",
+        "ID": "",
+        "IDs": [
+          "MapQimar",
+          "MapQimar_NoBoss"
+        ],
+        "ShortestId": "MapQimar",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapDeserted": {
+        "Name": "棄置之地",
+        "ID": "",
+        "IDs": [
+          "MapDeserted",
+          "MapDeserted_NoBoss"
+        ],
+        "ShortestId": "MapDeserted",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapCrag": {
+        "Name": "峭壁",
+        "ID": "",
+        "IDs": [
+          "MapCrag",
+          "MapCrag_NoBoss"
+        ],
+        "ShortestId": "MapCrag",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUberBoss_CopperCitadel": {
+        "Name": "青銅城塞",
+        "ID": "",
+        "IDs": [
+          "MapUberBoss_CopperCitadel"
+        ],
+        "ShortestId": "MapUberBoss_CopperCitadel",
+        "Biomes": [
+          "UberBoss",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "47, 49, 169",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapSandspit": {
+        "Name": "沙吐",
+        "ID": "",
+        "IDs": [
+          "MapSandspit",
+          "MapSandspit_NoBoss"
+        ],
+        "ShortestId": "MapSandspit",
+        "Biomes": [
+          "水域",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapUniqueMerchant01": {
+        "Name": "商人營地",
+        "ID": "",
+        "IDs": [
+          "MapUniqueMerchant01_Chimeral",
+          "MapUniqueMerchant01_Oasis",
+          "MapUniqueMerchant01_Sandswept"
+        ],
+        "ShortestId": "MapUniqueMerchant01",
+        "Biomes": [
+          "Unique",
+          "沙漠",
+          "森林",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapUniqueMerchant02": {
+        "Name": "商人營地",
+        "ID": "",
+        "IDs": [
+          "MapUniqueMerchant02_Crimson",
+          "MapUniqueMerchant02_Farmland",
+          "MapUniqueMerchant02_Riverbank"
+        ],
+        "ShortestId": "MapUniqueMerchant02",
+        "Biomes": [
+          "Unique",
+          "沙漠",
+          "草地",
+          "森林",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapAbyss": {
+        "Name": "深淵",
+        "ID": "",
+        "IDs": [
+          "MapAbyss",
+          "MapAbyss_NoBoss"
+        ],
+        "ShortestId": "MapAbyss",
+        "Biomes": [
+          "沙漠",
+          "山脉",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapCavernCity": {
+        "Name": "神聖水源地",
+        "ID": "",
+        "IDs": [
+          "MapCavernCity",
+          "MapCavernCity_NoBoss"
+        ],
+        "ShortestId": "MapCavernCity",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSeepage": {
+        "Name": "滲漏",
+        "ID": "",
+        "IDs": [
+          "MapSeepage_NoBoss",
+          "MapSeepage"
+        ],
+        "ShortestId": "MapSeepage",
+        "Biomes": [
+          "森林",
+          "森林",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapBloomingField": {
+        "Name": "盛放田野",
+        "ID": "",
+        "IDs": [
+          "MapBloomingField_NoBoss",
+          "MapBloomingField"
+        ],
+        "ShortestId": "MapBloomingField",
+        "Biomes": [
+          "森林",
+          "草地",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapLostTowers": {
+        "Name": "失落之塔",
+        "ID": "",
+        "IDs": [
+          "MapLostTowers",
+          "MapLostTowers_NoBoss"
+        ],
+        "ShortestId": "MapLostTowers",
+        "Biomes": [
+          "高塔",
+          "森林",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 255, 253, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 50.0
+      },
+      "MapWetlands": {
+        "Name": "濕地",
+        "ID": "",
+        "IDs": [
+          "MapWetlands_NoBoss",
+          "MapWetlands"
+        ],
+        "ShortestId": "MapWetlands",
+        "Biomes": [
+          "沼澤",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapGrimhaven": {
+        "Name": "肅穆之地",
+        "ID": "",
+        "IDs": [
+          "MapGrimhaven",
+          "MapGrimhaven_NoBoss"
+        ],
+        "ShortestId": "MapGrimhaven",
+        "Biomes": [],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "216, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapTerrace": {
+        "Name": "台地",
+        "ID": "",
+        "IDs": [
+          "MapTerrace",
+          "MapTerrace_NoBoss"
+        ],
+        "ShortestId": "MapTerrace",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSunTemple": {
+        "Name": "太陽神殿",
+        "ID": "",
+        "IDs": [
+          "MapSunTemple_NoBoss",
+          "MapSunTemple"
+        ],
+        "ShortestId": "MapSunTemple",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapCenotes": {
+        "Name": "天然井",
+        "ID": "",
+        "IDs": [
+          "MapCenotes",
+          "MapCenotes_NoBoss"
+        ],
+        "ShortestId": "MapCenotes",
+        "Biomes": [
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapChannel": {
+        "Name": "通道",
+        "ID": "",
+        "IDs": [
+          "MapChannel",
+          "MapChannel_NoBoss"
+        ],
+        "ShortestId": "MapChannel",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapExcavation": {
+        "Name": "挖掘地",
+        "ID": "",
+        "IDs": [
+          "MapExcavation",
+          "MapExcavation_NoBoss"
+        ],
+        "ShortestId": "MapExcavation",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapVaalCity": {
+        "Name": "瓦爾城",
+        "ID": "",
+        "IDs": [
+          "MapVaalCity",
+          "MapVaalCity_NoBoss"
+        ],
+        "ShortestId": "MapVaalCity",
+        "Biomes": [
+          "沼澤",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapVaalVillage": {
+        "Name": "瓦爾村莊",
+        "ID": "",
+        "IDs": [
+          "MapVaalVillage"
+        ],
+        "ShortestId": "MapVaalVillage",
+        "Biomes": [
+          "沼澤",
+          "VaalCity",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapVaalFactory": {
+        "Name": "瓦爾工廠",
+        "ID": "",
+        "IDs": [
+          "MapVaalFactory_NoBoss",
+          "MapVaalFactory"
+        ],
+        "ShortestId": "MapVaalFactory",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapVaalOutskirts": {
+        "Name": "瓦爾郊區",
+        "ID": "",
+        "IDs": [
+          "MapVaalOutskirts",
+          "MapVaalOutskirts_NoBoss"
+        ],
+        "ShortestId": "MapVaalOutskirts",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapVaalFoundry": {
+        "Name": "瓦爾鑄造廠",
+        "ID": "",
+        "IDs": [
+          "MapVaalFoundry_NoBoss",
+          "MapVaalFoundry"
+        ],
+        "ShortestId": "MapVaalFoundry",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "Outlands": {
+        "Name": "外域",
+        "ID": "",
+        "IDs": [
+          "MapOutlands",
+          "MapOutlands_NoBoss"
+        ],
+        "ShortestId": "MapOutlands",
+        "Biomes": [
+          "沙漠",
+          "法里顿城市",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSump": {
+        "Name": "污水池",
+        "ID": "",
+        "IDs": [
+          "MapSump_NoBoss",
+          "MapSump"
+        ],
+        "ShortestId": "MapSump",
+        "Biomes": [
+          "沼澤",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapWaywardIsle": {
+        "Name": "無常之島",
+        "ID": "",
+        "IDs": [
+          "MapWaywardIsle",
+          "MapWaywardIsle_NoBoss"
+        ],
+        "ShortestId": "MapWaywardIsle",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapRavine": {
+        "Name": "溪谷",
+        "ID": "",
+        "IDs": [
+          "MapRavine_NoBoss",
+          "MapRavine"
+        ],
+        "ShortestId": "MapRavine",
+        "Biomes": [
+          "山脉",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapCreek": {
+        "Name": "小溪",
+        "ID": "",
+        "IDs": [
+          "MapCreek_NoBoss",
+          "MapCreek"
+        ],
+        "ShortestId": "MapCreek",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapRustbowl": {
+        "Name": "銹碗",
+        "ID": "",
+        "IDs": [
+          "MapRustbowl",
+          "MapRustbowl_NoBoss"
+        ],
+        "ShortestId": "MapRustbowl",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapBloodwood": {
+        "Name": "血林",
+        "ID": "",
+        "IDs": [
+          "MapBloodwood",
+          "MapBloodwood_NoBoss"
+        ],
+        "ShortestId": "MapBloodwood",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "Bloodbowl": {
+        "Name": "血碗",
+        "ID": "",
+        "IDs": [],
+        "ShortestId": "Bloodbowl",
+        "Biomes": [
+          "沙漠",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapCliffside": {
+        "Name": "崖壁",
+        "ID": "",
+        "IDs": [
+          "MapCliffside",
+          "MapCliffside_NoBoss"
+        ],
+        "ShortestId": "MapCliffside",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "Rockpools": {
+        "Name": "岩池",
+        "ID": "",
+        "IDs": [
+          "MapRockpools",
+          "MapRockpools_NoBoss"
+        ],
+        "ShortestId": "MapRockpools",
+        "Biomes": [
+          "森林",
+          "沼澤",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapUberBoss_StoneCitadel": {
+        "Name": "岩石城塞",
+        "ID": "",
+        "IDs": [
+          "MapUberBoss_StoneCitadel"
+        ],
+        "ShortestId": "MapUberBoss_StoneCitadel",
+        "Biomes": [
+          "UberBoss",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "47, 49, 169",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapStronghold": {
+        "Name": "要塞",
+        "ID": "",
+        "IDs": [
+          "MapStronghold",
+          "MapStronghold_NoBoss"
+        ],
+        "ShortestId": "MapStronghold",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapHiddenGrotto": {
+        "Name": "隱密石窟",
+        "ID": "",
+        "IDs": [
+          "MapHiddenGrotto",
+          "MapHiddenGrotto_NoBoss"
+        ],
+        "ShortestId": "MapHiddenGrotto",
+        "Biomes": [
+          "森林",
+          "草地",
+          "山脉",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 10.0
+      },
+      "MapSpring_": {
+        "Name": "湧泉",
+        "ID": "",
+        "IDs": [
+          "MapSpring_",
+          "MapSpring__NoBoss"
+        ],
+        "ShortestId": "MapSpring_",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapBackwash": {
+        "Name": "餘波",
+        "ID": "",
+        "IDs": [
+          "MapBackwash",
+          "MapBackwash_NoBoss"
+        ],
+        "ShortestId": "MapBackwash",
+        "Biomes": [
+          "沼澤",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapAugury": {
+        "Name": "預兆",
+        "ID": "",
+        "IDs": [
+          "MapAugury",
+          "MapAugury_NoBoss"
+        ],
+        "ShortestId": "MapAugury",
+        "Biomes": [
+          "森林",
+          "森林",
+          "沼澤"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": -10.0
+      },
+      "MapUniqueSelenite": {
+        "Name": "月長石",
+        "ID": "",
+        "IDs": [
+          "MapUniqueSelenite"
+        ],
+        "ShortestId": "MapUniqueSelenite",
+        "Biomes": [
+          "Unique",
+          "沙漠",
+          "山脉",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 178, 255",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": true,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 100.0
+      },
+      "MapTrenches": {
+        "Name": "戰壕",
+        "ID": "",
+        "IDs": [
+          "MapTrenches_NoBoss",
+          "MapTrenches"
+        ],
+        "ShortestId": "MapTrenches",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 0.0
+      },
+      "MapSteamingSprings": {
+        "Name": "蒸氣之泉",
+        "ID": "",
+        "IDs": [
+          "MapSteamingSprings",
+          "MapSteamingSprings_NoBoss"
+        ],
+        "ShortestId": "MapSteamingSprings",
+        "Biomes": [
+          "山脉",
+          "草地",
+          "森林"
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapSpiderJungle": {
+        "Name": "蜘蛛叢林",
+        "ID": "",
+        "IDs": [
+          "MapSpiderJungle",
+          "MapSpiderJungle_NoBoss"
+        ],
+        "ShortestId": "MapSpiderJungle",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapSpiderWoods": {
+        "Name": "蜘蛛之林",
+        "ID": "",
+        "IDs": [
+          "MapSpiderWoods",
+          "MapSpiderWoods_NoBoss"
+        ],
+        "ShortestId": "MapSpiderWoods",
+        "Biomes": [
+          "森林",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 25.0
+      },
+      "MapCanyon": {
+        "Name": "炙陽峽谷",
+        "ID": "",
+        "IDs": [
+          "MapCanyon",
+          "MapCanyon_NoBoss"
+        ],
+        "ShortestId": "MapCanyon",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      },
+      "MapPlantation": {
+        "Name": "種植園",
+        "ID": "",
+        "IDs": [
+          "MapPlantation",
+          "MapPlantation_NoBoss"
+        ],
+        "ShortestId": "MapPlantation",
+        "Biomes": [
+          "",
+          "",
+          ""
+        ],
+        "NameColor": "255, 255, 255",
+        "BackgroundColor": "220, 0, 0, 0",
+        "NodeColor": "200, 155, 155, 155",
+        "DrawLine": false,
+        "Highlight": false,
+        "Count": 0,
+        "LockedCount": 0,
+        "FogCount": 0,
+        "Weight": 1.0
+      }
+    }
+  },
+  "Biomes": {
+    "ShowBiomeIcons": false,
+    "Biomes": {
+      "埃佐米特城市": {
+        "Name": "埃佐米特城市",
+        "Weight": 0.0,
+        "Color": "255, 255, 255",
+        "Highlight": true
+      },
+      "草地": {
+        "Name": "草地",
+        "Weight": 0.0,
+        "Color": "200, 138, 151, 126",
+        "Highlight": true
+      },
+      "法里顿城市": {
+        "Name": "法里顿城市",
+        "Weight": 0.0,
+        "Color": "255, 255, 255",
+        "Highlight": true
+      },
+      "森林": {
+        "Name": "森林",
+        "Weight": 0.0,
+        "Color": "200, 138, 151, 126",
+        "Highlight": true
+      },
+      "沙漠": {
+        "Name": "沙漠",
+        "Weight": 0.0,
+        "Color": "200, 219, 203, 172",
+        "Highlight": true
+      },
+      "山地": {
+        "Name": "山地",
+        "Weight": 0.0,
+        "Color": "200, 146, 131, 121",
+        "Highlight": true
+      },
+      "水域": {
+        "Name": "水域",
+        "Weight": 0.0,
+        "Color": "200, 35, 59, 70",
+        "Highlight": true
+      },
+      "瓦爾城市": {
+        "Name": "瓦爾城市",
+        "Weight": 0.0,
+        "Color": "255, 255, 255",
+        "Highlight": true
+      },
+      "沼澤": {
+        "Name": "沼澤",
+        "Weight": 0.0,
+        "Color": "200, 138, 151, 126",
+        "Highlight": true
+      }
+    }
+  },
+  "MapContent": {
+    "ContentTypes": {
+      "傳奇地圖": {
+        "Name": "傳奇地圖",
+        "Weight": 5.0,
+        "Color": "240, 255, 125, 0",
+        "Highlight": true
+      },
+      "地圖頭目": {
+        "Name": "地圖頭目",
+        "Weight": 4.5,
+        "Color": "200, 184, 134, 11",
+        "Highlight": false
+      },
+      "腐化": {
+        "Name": "腐化",
+        "Weight": 2.0,
+        "Color": "205, 126, 0, 126",
+        "Highlight": false
+      },
+      "腐化聖域": {
+        "Name": "腐化聖域",
+        "Weight": 5.0,
+        "Color": "220, 255, 0, 239",
+        "Highlight": false
+      },
+      "高塔": {
+        "Name": "高塔",
+        "Weight": 4.0,
+        "Color": "200, 178, 178, 34",
+        "Highlight": false
+      },
+      "祭祀": {
+        "Name": "祭祀",
+        "Weight": 4.0,
+        "Color": "200, 178, 34, 34",
+        "Highlight": false
+      },
+      "裂痕": {
+        "Name": "裂痕",
+        "Weight": 4.25,
+        "Color": "200, 166, 90, 255",
+        "Highlight": false
+      },
+      "流浪商人": {
+        "Name": "流浪商人",
+        "Weight": 5.0,
+        "Color": "200, 255, 250, 70",
+        "Highlight": false
+      },
+      "深淵": {
+        "Name": "深淵",
+        "Weight": 4.0,
+        "Color": "200, 178, 22, 200",
+        "Highlight": false
+      },
+      "死境探險": {
+        "Name": "死境探險",
+        "Weight": 4.0,
+        "Color": "200, 166, 177, 255",
+        "Highlight": false
+      },
+      "已净化": {
+        "Name": "已净化",
+        "Weight": 2.0,
+        "Color": "205, 126, 0, 126",
+        "Highlight": false
+      },
+      "异常地圖頭目": {
+        "Name": "异常地圖頭目",
+        "Weight": 6.5,
+        "Color": "220, 0, 208, 255",
+        "Highlight": false
+      },
+      "譫妄": {
+        "Name": "譫妄",
+        "Weight": 4.0,
+        "Color": "200, 220, 220, 220",
+        "Highlight": false
+      },
+      "照耀": {
+        "Name": "照耀",
+        "Weight": 2.0,
+        "Color": "200, 154, 205, 50",
+        "Highlight": false
+      }
+    },
+    "ShowRingsOnUnlockedNodes": true,
+    "ShowRingsOnLockedNodes": true,
+    "ShowRingsOnHiddenNodes": true,
+    "DrawContentIconsOnHiddenNodes": false
+  },
+  "MapMods": {
+    "MapModTypes": {
+      "20047": {
+        "ModID": "TowerDroppedGoldIncrease1",
+        "Description": "$% 增加金币",
+        "RequiredContent": "",
+        "Weight": 0.01,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "Bountiful",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "989": {
+        "ModID": "TowerPackSizeIncrease1",
+        "Description": "$% 增加怪物群大小",
+        "RequiredContent": "",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 3.0,
+        "MaxValue1": 8.0,
+        "Name": "Breeding",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "991": {
+        "ModID": "TowerRarePackIncrease1",
+        "Description": "$% 增加稀有怪数量",
+        "RequiredContent": "",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 255, 215, 0",
+        "MinValue1": 10.0,
+        "MaxValue1": 15.0,
+        "Name": "Brimming",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "1202": {
+        "ModID": "TowerDroppedItemRarityIncrease1",
+        "Description": "$% 增加稀有度",
+        "RequiredContent": "",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 255, 215, 0",
+        "MinValue1": 10.0,
+        "MaxValue1": 20.0,
+        "Name": "Collector's",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "1324": {
+        "ModID": "TowerExperienceGainIncrease1",
+        "Description": "$% 增加经验",
+        "RequiredContent": "",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "Elevated",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20735": {
+        "ModID": "TowerExpeditionRareMonsters",
+        "Description": "$% 增加稀有怪物",
+        "RequiredContent": "探险",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 10.0,
+        "MaxValue1": 15.0,
+        "Name": "of Ancient Fiends",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16924": {
+        "ModID": "TowerRitualDeferCostIncrease",
+        "Description": "$% 减少延迟消耗",
+        "RequiredContent": "祭坛",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 10.0,
+        "MaxValue1": 15.0,
+        "Name": "of Devotion",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "12945": {
+        "ModID": "TowerDeliriumAdditionalRewardType",
+        "Description": "$% 几率获得 +1 奖励",
+        "RequiredContent": "迷雾",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 3.0,
+        "MaxValue1": 8.0,
+        "Name": "of Envy",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13081": {
+        "ModID": "TowerDeliriumFogDissipationDelay",
+        "Description": "$% 增加迷雾延迟",
+        "RequiredContent": "迷雾",
+        "Weight": 0.0001,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 30.0,
+        "MaxValue1": 60.0,
+        "Name": "of Eternity",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16760": {
+        "ModID": "TowerBreachAdditionalChance",
+        "Description": "$% 几率获得 +1 裂隙",
+        "RequiredContent": "裂隙",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Fissuring",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20988": {
+        "ModID": "TowerDeliriumRareMonsterPause",
+        "Description": "每稀有怪物冻结迷雾 $s",
+        "RequiredContent": "迷雾",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 2.0,
+        "MaxValue1": 2.0,
+        "Name": "of Freeze Time",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13813": {
+        "ModID": "TowerExpeditionLogbookIncrease",
+        "Description": "$% 增加日志书",
+        "RequiredContent": "探险",
+        "Weight": 1.0,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Knowledge",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13073": {
+        "ModID": "TowerDeliriumDifficultyIncrease",
+        "Description": "$% 增加迷雾难度",
+        "RequiredContent": "迷雾",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Madness",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20989": {
+        "ModID": "TowerDeliriumDoodadsIncrease",
+        "Description": "每稀有怪物冻结迷雾 $s",
+        "RequiredContent": "迷雾",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Mirrors",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20934": {
+        "ModID": "TowerRitualOmenChance",
+        "Description": "$% 增加预兆",
+        "RequiredContent": "祭坛",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Omens",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16900": {
+        "ModID": "TowerDeliriumPackSizeIncrease",
+        "Description": "$% 增加迷雾怪物群规模",
+        "RequiredContent": "迷雾",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Persecution",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13015": {
+        "ModID": "TowerDeliriumBossChance",
+        "Description": "$% 增加首领几率",
+        "RequiredContent": "迷雾",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Phobia",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13378": {
+        "ModID": "TowerRitualAdditionalReroll",
+        "Description": "+$ 重roll次数",
+        "RequiredContent": "祭坛",
+        "Weight": 1.0,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 1.0,
+        "MaxValue1": 1.0,
+        "Name": "of Prayers",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20736": {
+        "ModID": "TowerExpeditionRelicModEffect",
+        "Description": "$% 增加遗物词缀效果",
+        "RequiredContent": "探险",
+        "Weight": 0.3,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 3.0,
+        "MaxValue1": 6.0,
+        "Name": "of Relics",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13974": {
+        "ModID": "TowerExpeditionRunicMonsters",
+        "Description": "$% 增加符文怪物",
+        "RequiredContent": "探险",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Runes",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16762": {
+        "ModID": "TowerBreach3AdditionalChance",
+        "Description": "$% 几率获得 +3 裂隙",
+        "RequiredContent": "裂隙",
+        "Weight": 5.0,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 2.0,
+        "MaxValue1": 4.0,
+        "Name": "of Rupturing",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13377": {
+        "ModID": "TowerRitualTributeIncrease",
+        "Description": "$% 增加贡品",
+        "RequiredContent": "祭坛",
+        "Weight": 1.0,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Sacrifice",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16344": {
+        "ModID": "TowerAdditionalShrineChance",
+        "Description": "$% 增加神殿几率",
+        "RequiredContent": "",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 10.0,
+        "MaxValue1": 20.0,
+        "Name": "of Shrines",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16345": {
+        "ModID": "TowerAdditionalStrongboxChance",
+        "Description": "$% 增加保险箱几率",
+        "RequiredContent": "",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 10.0,
+        "MaxValue1": 20.0,
+        "Name": "of Strongboxes",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16923": {
+        "ModID": "TowerRitualDeferSpeed",
+        "Description": "$% 增加延迟速度",
+        "RequiredContent": "祭坛",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 10.0,
+        "MaxValue1": 15.0,
+        "Name": "of the Appeal",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "8285": {
+        "ModID": "TowerMapDroppedMapsIncrease",
+        "Description": "$% 增加地图掉落",
+        "RequiredContent": "",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 10.0,
+        "MaxValue1": 20.0,
+        "Name": "of the Cartographer",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13008": {
+        "ModID": "TowerBreachRareMonsterIncrease",
+        "Description": "$% 增加裂隙稀有怪物",
+        "RequiredContent": "裂隙",
+        "Weight": 2.0,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 1.0,
+        "MaxValue1": 1.0,
+        "Name": "of the Commander",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20933": {
+        "ModID": "TowerRitualMagicMonsters",
+        "Description": "$% 增加仪式魔法怪物",
+        "RequiredContent": "祭坛",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 10.0,
+        "MaxValue1": 15.0,
+        "Name": "of the Cult",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13684": {
+        "ModID": "TowerExpeditionExplosionRadius",
+        "Description": "$% 增加爆炸半径",
+        "RequiredContent": "探险",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Demolition",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13945": {
+        "ModID": "TowerExpeditionExplosionPlacement",
+        "Description": "$% 增加爆炸放置",
+        "RequiredContent": "探险",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Detonator",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13437": {
+        "ModID": "TowerRitualRerollCostIncrease",
+        "Description": "$% 减少重roll消耗",
+        "RequiredContent": "祭坛",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 10.0,
+        "MaxValue1": 15.0,
+        "Name": "of the Dogma",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "14862": {
+        "ModID": "TowerBreachMonsterSplinterIncrease",
+        "Description": "$% 增加裂隙碎片",
+        "RequiredContent": "裂隙",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Domain",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16347": {
+        "ModID": "TowerAdditionalEssenceChance",
+        "Description": "$% 增加精髓",
+        "RequiredContent": "",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 10.0,
+        "MaxValue1": 20.0,
+        "Name": "of the Essence",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13030": {
+        "ModID": "TowerBreachSpeedIncrease",
+        "Description": "$% 增加裂隙速度",
+        "RequiredContent": "裂隙",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Flash",
+        "MinValue2": 8.0,
+        "MaxValue2": 12.0,
+        "Stat2": "5271",
+        "ShowOnMap": true
+      },
+      "20932": {
+        "ModID": "TowerRitualRareMonsters",
+        "Description": "$% 增加仪式稀有怪物",
+        "RequiredContent": "祭坛",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 15.0,
+        "MaxValue1": 25.0,
+        "Name": "of the Foundling",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "12621": {
+        "ModID": "TowerBreachChestAdditional",
+        "Description": "$% 增加裂隙宝箱",
+        "RequiredContent": "裂隙",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 1.0,
+        "MaxValue1": 1.0,
+        "Name": "of the Hand",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13009": {
+        "ModID": "TowerBreachMagicMonsterIncrease",
+        "Description": "$% 增加裂隙魔法怪物",
+        "RequiredContent": "裂隙",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 15.0,
+        "MaxValue1": 25.0,
+        "Name": "of the Hoard",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "5271": {
+        "ModID": "TowerBreachDensityIncrease",
+        "Description": "$% 增加裂隙密度",
+        "RequiredContent": "裂隙",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 90, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Invasion",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "20519": {
+        "ModID": "TowerRareAdditionalModChance",
+        "Description": "$% 增加稀有词缀几率",
+        "RequiredContent": "",
+        "Weight": 0.05,
+        "MinValueToShow": 0.0,
+        "Color": "200, 255, 215, 0",
+        "MinValue1": 20.0,
+        "MaxValue1": 30.0,
+        "Name": "of the Nemesis",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16922": {
+        "ModID": "TowerRitualChanceForNoCost",
+        "Description": "$% 几率无重roll消耗",
+        "RequiredContent": "祭坛",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "200, 178, 34, 34",
+        "MinValue1": 1.0,
+        "MaxValue1": 3.0,
+        "Name": "of the Occult",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "16915": {
+        "ModID": "TowerDeliriumRewardProgressIncrease",
+        "Description": "$% 增加迷雾奖励进度",
+        "RequiredContent": "迷雾",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Pursuit",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "12946": {
+        "ModID": "TowerDeliriumMonsterSplinterIncrease",
+        "Description": "$% 增加裂隙碎片",
+        "RequiredContent": "迷雾",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of the Simulacrum",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13080": {
+        "ModID": "TowerDeliriumFogPersistence",
+        "Description": "$% 减少迷雾持续时间",
+        "RequiredContent": "迷雾",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 220, 220, 220",
+        "MinValue1": -15.0,
+        "MaxValue1": -10.0,
+        "Name": "of the Unending",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "14088": {
+        "ModID": "TowerExpeditionRelicIncrease",
+        "Description": "$% 增加遗物",
+        "RequiredContent": "探险",
+        "Weight": 1.0,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 1.0,
+        "MaxValue1": 1.0,
+        "Name": "of the Writings",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "4752": {
+        "ModID": "TowerMapAdditionalModifier",
+        "Description": "$% 增加地图词缀",
+        "RequiredContent": "",
+        "Weight": 0.25,
+        "MinValueToShow": 0.0,
+        "Color": "255, 255, 255",
+        "MinValue1": 1.0,
+        "MaxValue1": 1.0,
+        "Name": "of Undertaking",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "13978": {
+        "ModID": "TowerExpeditionArtifactIncrease",
+        "Description": "$% 增加文物",
+        "RequiredContent": "探险",
+        "Weight": 0.2,
+        "MinValueToShow": 0.0,
+        "Color": "200, 166, 177, 255",
+        "MinValue1": 5.0,
+        "MaxValue1": 10.0,
+        "Name": "of Verisium",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      },
+      "1004": {
+        "ModID": "TowerDroppedItemQuantityIncrease1",
+        "Description": "$% 增加物品数量",
+        "RequiredContent": "",
+        "Weight": 0.5,
+        "MinValueToShow": 0.0,
+        "Color": "200, 255, 215, 0",
+        "MinValue1": 10.0,
+        "MaxValue1": 20.0,
+        "Name": "Plundering",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "1202",
+        "ShowOnMap": true
+      },
+      "990": {
+        "ModID": "TowerMagicPackIncrease1",
+        "Description": "$% 增加魔法怪数量",
+        "RequiredContent": "",
+        "Weight": 0.1,
+        "MinValueToShow": 0.0,
+        "Color": "200, 30, 144, 255",
+        "MinValue1": 15.0,
+        "MaxValue1": 25.0,
+        "Name": "Teeming",
+        "MinValue2": 0.0,
+        "MaxValue2": 0.0,
+        "Stat2": "",
+        "ShowOnMap": true
+      }
+    },
+    "ShowOnTowers": true,
+    "ShowOnMaps": true,
+    "OnlyDrawApplicableMods": true,
+    "MapModScale": 0.75,
+    "MapModOffset": 25
+  },
+  "Waypoints": {
+    "PanelIsOpen": false,
+    "ShowWaypoints": true,
+    "ShowWaypointArrows": true,
+    "WaypointPanelMaxItems": 30,
+    "WaypointPanelSortBy": "Weight",
+    "WaypointsUseRegex": false,
+    "ShowUnlockedOnly": false,
+    "WaypointPanelFilter": "",
+    "Waypoints": {}
+  }
+}

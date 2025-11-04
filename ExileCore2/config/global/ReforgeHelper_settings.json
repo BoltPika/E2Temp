@@ -1,0 +1,183 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "SpeedVariance": {
+    "Value": 20
+  },
+  "StartReforgeKey": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "F6",
+      "Win": false
+    }
+  },
+  "EmergencyStopKey": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "F7",
+      "Win": false
+    }
+  },
+  "MaxItemLevelDisparity": {
+    "Value": 3
+  },
+  "MinItemLevel": {
+    "Value": 60
+  },
+  "MaxItemLevel": {
+    "Value": 100
+  },
+  "EnableDebug": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ItemCategories": {
+    "EnableSoulCores": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableJewels": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableRings": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableAmulets": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableWaystones": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableRelics": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableTablets": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "EnableDistilleds": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  },
+  "Display": {
+    "StatusText": {
+      "Enabled": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ProcessingText": {
+        "Value": "重铸中"
+      },
+      "ProcessingColor": "ffff00ff",
+      "IdleText": {
+        "Value": "准备就绪"
+      },
+      "IdleColor": "008000ff",
+      "PositionX": {
+        "Value": 1230
+      },
+      "PositionY": {
+        "Value": 434
+      },
+      "Background": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "BackgroundColor": "000000c5"
+    }
+  }
+}

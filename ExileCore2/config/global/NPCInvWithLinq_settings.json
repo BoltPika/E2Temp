@@ -1,0 +1,151 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Description": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "DrawOnTabLabels": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "TabFrameColor": "ff0000ff",
+  "FrameThickness": {
+    "Value": 1
+  },
+  "FilterTest": {
+    "Value": ""
+  },
+  "ReloadFilters": {},
+  "CustomConfigDir": {
+    "Value": ""
+  },
+  "NPCInvRules": [
+    {
+      "Name": "命中值.ifl",
+      "Location": "命中值.ifl",
+      "Enabled": false,
+      "Color": "ff0000ff"
+    },
+    {
+      "Name": "攻击速度.ifl",
+      "Location": "攻击速度.ifl",
+      "Enabled": false,
+      "Color": "ff0000ff"
+    },
+    {
+      "Name": "暗金装.ifl",
+      "Location": "暗金装.ifl",
+      "Enabled": true,
+      "Color": "ff8900ff"
+    },
+    {
+      "Name": "精魂.ifl",
+      "Location": "精魂.ifl",
+      "Enabled": true,
+      "Color": "00ff1aff"
+    },
+    {
+      "Name": "抗性.ifl",
+      "Location": "抗性.ifl",
+      "Enabled": false,
+      "Color": "8400ffff"
+    },
+    {
+      "Name": "能量护盾.ifl",
+      "Location": "能量护盾.ifl",
+      "Enabled": false,
+      "Color": "89fcffff"
+    },
+    {
+      "Name": "魔力回复率.ifl",
+      "Location": "魔力回复率.ifl",
+      "Enabled": false,
+      "Color": "4d5bdfff"
+    },
+    {
+      "Name": "最大魔力.ifl",
+      "Location": "最大魔力.ifl",
+      "Enabled": false,
+      "Color": "0056c3ff"
+    },
+    {
+      "Name": "施放速度.ifl",
+      "Location": "施放速度.ifl",
+      "Enabled": false,
+      "Color": "a5d58cff"
+    },
+    {
+      "Name": "技能等级.ifl",
+      "Location": "技能等级.ifl",
+      "Enabled": true,
+      "Color": "ffbc00ff"
+    },
+    {
+      "Name": "物理伤害.ifl",
+      "Location": "物理伤害.ifl",
+      "Enabled": false,
+      "Color": "57a781ff"
+    },
+    {
+      "Name": "冰冷伤害.ifl",
+      "Location": "冰冷伤害.ifl",
+      "Enabled": false,
+      "Color": "ffffffff"
+    },
+    {
+      "Name": "火焰伤害.ifl",
+      "Location": "火焰伤害.ifl",
+      "Enabled": false,
+      "Color": "ff0000ff"
+    },
+    {
+      "Name": "闪电伤害.ifl",
+      "Location": "闪电伤害.ifl",
+      "Enabled": false,
+      "Color": "fff5bbff"
+    },
+    {
+      "Name": "移动速度.ifl",
+      "Location": "移动速度.ifl",
+      "Enabled": false,
+      "Color": "ffa51dff"
+    },
+    {
+      "Name": "金装.ifl",
+      "Location": "金装.ifl",
+      "Enabled": false,
+      "Color": "fff600ff"
+    },
+    {
+      "Name": "开荒-僧侣.ifl",
+      "Location": "开荒-僧侣.ifl",
+      "Enabled": false,
+      "Color": "ff00afff"
+    }
+  ],
+  "RuleConfig": {}
+}

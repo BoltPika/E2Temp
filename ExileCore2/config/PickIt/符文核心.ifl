@@ -1,0 +1,1 @@
+ContainsString(BaseName, new string[] { "符文","靈魂核心","魔符" }) //自行添加-要拾取项目名称

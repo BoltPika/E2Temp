@@ -1,0 +1,15 @@
+ClassName == "Jewel" && (
+BaseName.Contains("藍") ||
+BaseName.Contains("綠") ||
+BaseName.Contains("紅") ||
+false 
+) && (
+Rarity == ItemRarity.Normal || //白
+Rarity == ItemRarity.Magic || //蓝
+Rarity == ItemRarity.Rare || //金
+Rarity == ItemRarity.Unique || //橙
+false
+)
+
+
+

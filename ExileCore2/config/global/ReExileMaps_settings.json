@@ -1,0 +1,314 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Features": {
+    "AtlasRange": {
+      "Value": 1500
+    },
+    "UseAtlasRange": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ProcessVisitedNodes": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ProcessLockedNodes": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "ProcessHiddenNodes": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "DrawVisitedNodeConnections": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "DrawHiddenNodeConnections": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "DrawLines": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "WaypointsUseAtlasRange": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "DrawLineLabels": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "DebugMode": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    }
+  },
+  "Keybinds": {
+    "RefreshMapCacheHotkey": {
+      "Value": 36
+    },
+    "AddWaypointHotkey": {
+      "Value": 45
+    },
+    "DeleteWaypointHotkey": {
+      "Value": 46
+    },
+    "ToggleWaypointPanelHotkey": {
+      "Value": 35
+    },
+    "ShowTowerRangeHotkey": {
+      "Value": 33
+    },
+    "ToggleVisitedNodesHotkey": {
+      "Value": 124
+    },
+    "ToggleUnlockedNodesHotkey": {
+      "Value": 124
+    },
+    "ToggleLockedNodesHotkey": {
+      "Value": 124
+    },
+    "ToggleHiddenNodesHotkey": {
+      "Value": 124
+    },
+    "DebugKey": {
+      "Value": 124
+    },
+    "UpdateMapsKey": {
+      "Value": 124
+    },
+    "SearchPanelHotkey": {
+      "Value": 115
+    }
+  },
+  "Graphics": {
+    "RenderNTicks": {
+      "Value": 5
+    },
+    "MapCacheRefreshRate": {
+      "Value": 2
+    },
+    "FontColor": "ffffffff",
+    "BackgroundColor": "000000b1",
+    "LabelInterpolationScale": {
+      "Value": 0.5
+    },
+    "LineColor": "ffdedec8",
+    "MapLineWidth": {
+      "Value": 3.0
+    },
+    "VisitedLineColor": "ffffff50",
+    "UnlockedLineColor": "5aff5aaa",
+    "LockedLineColor": "ff5a5aaa",
+    "DrawGradientLines": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None"
+        }
+      }
+    },
+    "RingWidth": {
+      "Value": 5.0
+    },
+    "RingRadius": {
+      "Value": 1.0
+    },
+    "NodeRadius": {
+      "Value": 1.5
+    }
+  },
+  "MapTypes": {
+    "HighlightMapNodes": true,
+    "ColorNodesByWeight": true,
+    "DrawWeightOnMap": false,
+    "ShowMapNames": true,
+    "UseColorsForMapNames": true,
+    "UseWeightColorsForMapNames": true,
+    "ShowMapNamesOnUnlockedNodes": true,
+    "ShowMapNamesOnLockedNodes": true,
+    "ShowMapNamesOnHiddenNodes": true,
+    "GoodNodeColor": "200, 50, 255, 50",
+    "BadNodeColor": "200, 255, 50, 50",
+    "Maps": {}
+  },
+  "Biomes": {
+    "ShowBiomeIcons": false,
+    "Biomes": {}
+  },
+  "MapContent": {
+    "ContentTypes": {},
+    "ShowRingsOnUnlockedNodes": true,
+    "ShowRingsOnLockedNodes": true,
+    "ShowRingsOnHiddenNodes": true,
+    "DrawContentIconsOnHiddenNodes": false
+  },
+  "MapMods": {
+    "MapModTypes": null,
+    "ShowOnTowers": true,
+    "ShowOnMaps": true,
+    "OnlyDrawApplicableMods": true,
+    "MapModScale": 0.75,
+    "MapModOffset": 25
+  },
+  "Waypoints": {
+    "PanelIsOpen": false,
+    "ShowWaypoints": true,
+    "ShowWaypointArrows": true,
+    "WaypointPanelMaxItems": 30,
+    "WaypointPanelSortBy": "Weight",
+    "WaypointsUseRegex": false,
+    "ShowUnlockedOnly": false,
+    "WaypointPanelFilter": "",
+    "Waypoints": {},
+    "RoutingSettings": {
+      "EnableRoutes": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "AutoUpdateRoute": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "RouteUpdateInterval": {
+        "Value": 1.0
+      },
+      "RouteLineWidth": {
+        "Value": 4.0
+      },
+      "RouteLineColor": "ffa500dc",
+      "RouteStartColor": "64b4ffdc",
+      "RouteEndColor": "003cb4dc",
+      "UseGradient": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ShowDirectionArrows": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "UseLockedNodesInRoute": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None"
+          }
+        }
+      },
+      "ArrowSize": {
+        "Value": 10.0
+      }
+    }
+  },
+  "Search": {
+    "ShowUnlockedMaps": true,
+    "ShowLockedMaps": true,
+    "ShowHiddenMaps": true,
+    "HideVisitedMaps": true,
+    "HideFailedMaps": true,
+    "PanelIsOpen": false,
+    "SearchPanelMaxItems": 30,
+    "AutoRemoveWaypointAfterVisit": true,
+    "SearchQuery": "",
+    "SortBy": "Weight"
+  }
+}

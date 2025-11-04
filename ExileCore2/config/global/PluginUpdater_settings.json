@@ -1,0 +1,17 @@
+{
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "CheckUpdatesOnStartup": false,
+  "AutoCheckUpdates": false,
+  "WrapLogMessages": true,
+  "UpdateCheckIntervalMinutes": 60
+}
