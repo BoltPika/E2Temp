@@ -161,10 +161,10 @@
       "Value": 32
     },
     "TargetFps": {
-      "Value": 60
+      "Value": 200
     },
     "EntitiesFps": {
-      "Value": 60
+      "Value": 200
     },
     "ParseServerEntities": {
       "Value": true,
@@ -418,7 +418,7 @@
     }
   },
   "Enable": {
-    "Value": true,
+    "Value": false,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -443,7 +443,7 @@
     "Value": 1000
   },
   "DisableBlackBarAdjustment": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
