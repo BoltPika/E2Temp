@@ -80,7 +80,7 @@
       }
     },
     "CachePluginCompilationResults": {
-      "Value": true,
+      "Value": false,
       "AttachedHotkey": {
         "ValueV2": {
           "ControllerKey": "None",
@@ -158,13 +158,13 @@
   },
   "PerformanceSettings": {
     "EntityParserThreads": {
-      "Value": 32
+      "Value": 8
     },
     "TargetFps": {
-      "Value": 200
+      "Value": 60
     },
     "EntitiesFps": {
-      "Value": 200
+      "Value": 60
     },
     "ParseServerEntities": {
       "Value": true,
@@ -418,7 +418,7 @@
     }
   },
   "Enable": {
-    "Value": false,
+    "Value": true,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
@@ -443,7 +443,7 @@
     "Value": 1000
   },
   "DisableBlackBarAdjustment": {
-    "Value": true,
+    "Value": false,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
